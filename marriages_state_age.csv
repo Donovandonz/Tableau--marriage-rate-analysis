@@ -1,0 +1,2305 @@
+state,date,sex,age,abs,rate
+Johor,2017-01-01,female,all,27308,27.59
+Johor,2017-01-01,female,< 20,1079,1.88
+Johor,2017-01-01,female,20-24,8135,64.02
+Johor,2017-01-01,female,25-29,10953,159.12
+Johor,2017-01-01,female,30-34,3769,102.22
+Johor,2017-01-01,female,35-39,1563,64.06
+Johor,2017-01-01,female,40-44,811,76.51
+Johor,2017-01-01,female,45-49,451,38.19
+Johor,2017-01-01,female,50-54,275,12.55
+Johor,2017-01-01,female,55-59,136,6.12
+Johor,2017-01-01,female,60-64,82,3.58
+Johor,2017-01-01,female,65+,54,0.77
+Johor,2017-01-01,male,all,27626,25.82
+Johor,2017-01-01,male,< 20,251,0.4
+Johor,2017-01-01,male,20-24,4812,29.67
+Johor,2017-01-01,male,25-29,11792,102.39
+Johor,2017-01-01,male,30-34,5499,96.77
+Johor,2017-01-01,male,35-39,2291,72.05
+Johor,2017-01-01,male,40-44,1123,80.88
+Johor,2017-01-01,male,45-49,644,66.34
+Johor,2017-01-01,male,50-54,448,40.09
+Johor,2017-01-01,male,55-59,313,34.25
+Johor,2017-01-01,male,60-64,187,20.56
+Johor,2017-01-01,male,65+,266,9.1
+Johor,2018-01-01,female,all,26806,26.7
+Johor,2018-01-01,female,< 20,958,1.7
+Johor,2018-01-01,female,20-24,7605,58.8
+Johor,2018-01-01,female,25-29,10966,156.8
+Johor,2018-01-01,female,30-34,3700,100.8
+Johor,2018-01-01,female,35-39,1615,62.8
+Johor,2018-01-01,female,40-44,851,80.1
+Johor,2018-01-01,female,45-49,532,44.6
+Johor,2018-01-01,female,50-54,311,13.9
+Johor,2018-01-01,female,55-59,164,7.3
+Johor,2018-01-01,female,60-64,60,2.5
+Johor,2018-01-01,female,65+,44,0.6
+Johor,2018-01-01,male,all,27153,25.2
+Johor,2018-01-01,male,< 20,272,0.4
+Johor,2018-01-01,male,20-24,4607,27.8
+Johor,2018-01-01,male,25-29,11528,100.3
+Johor,2018-01-01,male,30-34,5450,95.8
+Johor,2018-01-01,male,35-39,2266,69.0
+Johor,2018-01-01,male,40-44,1165,81.8
+Johor,2018-01-01,male,45-49,674,67.7
+Johor,2018-01-01,male,50-54,469,41.6
+Johor,2018-01-01,male,55-59,320,34.0
+Johor,2018-01-01,male,60-64,172,18.2
+Johor,2018-01-01,male,65+,230,7.5
+Johor,2019-01-01,female,all,26574,26.4
+Johor,2019-01-01,female,< 20,903,1.6
+Johor,2019-01-01,female,20-24,7425,57.1
+Johor,2019-01-01,female,25-29,10930,156.7
+Johor,2019-01-01,female,30-34,3607,99.6
+Johor,2019-01-01,female,35-39,1688,63.8
+Johor,2019-01-01,female,40-44,862,80.3
+Johor,2019-01-01,female,45-49,508,42.6
+Johor,2019-01-01,female,50-54,325,14.3
+Johor,2019-01-01,female,55-59,168,7.3
+Johor,2019-01-01,female,60-64,92,3.7
+Johor,2019-01-01,female,65+,66,0.9
+Johor,2019-01-01,male,all,26872,25.1
+Johor,2019-01-01,male,< 20,261,0.4
+Johor,2019-01-01,male,20-24,4529,27.4
+Johor,2019-01-01,male,25-29,11662,104.3
+Johor,2019-01-01,male,30-34,5181,92.5
+Johor,2019-01-01,male,35-39,2252,67.6
+Johor,2019-01-01,male,40-44,1087,75.6
+Johor,2019-01-01,male,45-49,643,64.2
+Johor,2019-01-01,male,50-54,443,39.5
+Johor,2019-01-01,male,55-59,343,35.8
+Johor,2019-01-01,male,60-64,213,21.9
+Johor,2019-01-01,male,65+,258,8.1
+Johor,2020-01-01,female,all,22917,22.7
+Johor,2020-01-01,female,< 20,785,1.4
+Johor,2020-01-01,female,20-24,6643,50.8
+Johor,2020-01-01,female,25-29,9553,137.0
+Johor,2020-01-01,female,30-34,2900,80.5
+Johor,2020-01-01,female,35-39,1275,47.5
+Johor,2020-01-01,female,40-44,663,60.3
+Johor,2020-01-01,female,45-49,465,39.0
+Johor,2020-01-01,female,50-54,307,13.3
+Johor,2020-01-01,female,55-59,176,7.6
+Johor,2020-01-01,female,60-64,100,3.9
+Johor,2020-01-01,female,65+,50,0.6
+Johor,2020-01-01,male,all,22865,21.5
+Johor,2020-01-01,male,< 20,220,0.4
+Johor,2020-01-01,male,20-24,4257,25.9
+Johor,2020-01-01,male,25-29,10081,92.1
+Johor,2020-01-01,male,30-34,4155,75.8
+Johor,2020-01-01,male,35-39,1774,53.2
+Johor,2020-01-01,male,40-44,850,58.1
+Johor,2020-01-01,male,45-49,503,50.0
+Johor,2020-01-01,male,50-54,360,32.1
+Johor,2020-01-01,male,55-59,275,28.5
+Johor,2020-01-01,male,60-64,171,17.0
+Johor,2020-01-01,male,65+,219,6.6
+Johor,2021-01-01,female,all,24936,24.2
+Johor,2021-01-01,female,< 20,703,1.2
+Johor,2021-01-01,female,20-24,7305,54.8
+Johor,2021-01-01,female,25-29,10805,152.0
+Johor,2021-01-01,female,30-34,3164,86.1
+Johor,2021-01-01,female,35-39,1324,48.4
+Johor,2021-01-01,female,40-44,686,61.2
+Johor,2021-01-01,female,45-49,413,34.0
+Johor,2021-01-01,female,50-54,248,10.6
+Johor,2021-01-01,female,55-59,157,6.6
+Johor,2021-01-01,female,60-64,77,2.9
+Johor,2021-01-01,female,65+,54,0.7
+Johor,2021-01-01,male,all,24384,22.9
+Johor,2021-01-01,male,< 20,203,0.3
+Johor,2021-01-01,male,20-24,4572,27.8
+Johor,2021-01-01,male,25-29,11134,101.7
+Johor,2021-01-01,male,30-34,4444,81.1
+Johor,2021-01-01,male,35-39,1850,55.5
+Johor,2021-01-01,male,40-44,828,56.6
+Johor,2021-01-01,male,45-49,462,45.9
+Johor,2021-01-01,male,50-54,301,26.9
+Johor,2021-01-01,male,55-59,227,23.5
+Johor,2021-01-01,male,60-64,163,16.2
+Johor,2021-01-01,male,65+,200,6.0
+Johor,2022-01-01,female,all,26539,25.8
+Johor,2022-01-01,female,< 20,723,1.2
+Johor,2022-01-01,female,20-24,6687,50.4
+Johor,2022-01-01,female,25-29,10758,152.0
+Johor,2022-01-01,female,30-34,3996,109.3
+Johor,2022-01-01,female,35-39,1862,68.4
+Johor,2022-01-01,female,40-44,972,87.1
+Johor,2022-01-01,female,45-49,639,52.8
+Johor,2022-01-01,female,50-54,408,17.5
+Johor,2022-01-01,female,55-59,269,11.4
+Johor,2022-01-01,female,60-64,144,5.5
+Johor,2022-01-01,female,65+,81,1.0
+Johor,2022-01-01,male,all,26166,21.1
+Johor,2022-01-01,male,< 20,163,0.2
+Johor,2022-01-01,male,20-24,4234,22.1
+Johor,2022-01-01,male,25-29,10902,85.7
+Johor,2022-01-01,male,30-34,5316,83.4
+Johor,2022-01-01,male,35-39,2213,57.1
+Johor,2022-01-01,male,40-44,1174,69.1
+Johor,2022-01-01,male,45-49,717,61.2
+Johor,2022-01-01,male,50-54,484,37.2
+Johor,2022-01-01,male,55-59,341,30.4
+Johor,2022-01-01,male,60-64,260,22.3
+Johor,2022-01-01,male,65+,362,9.4
+Kedah,2017-01-01,female,all,13612,23.08
+Kedah,2017-01-01,female,< 20,566,1.59
+Kedah,2017-01-01,female,20-24,4565,57.93
+Kedah,2017-01-01,female,25-29,5527,178.96
+Kedah,2017-01-01,female,30-34,1610,134.13
+Kedah,2017-01-01,female,35-39,594,79.9
+Kedah,2017-01-01,female,40-44,283,40.42
+Kedah,2017-01-01,female,45-49,195,24.01
+Kedah,2017-01-01,female,50-54,120,11.25
+Kedah,2017-01-01,female,55-59,83,6.76
+Kedah,2017-01-01,female,60-64,38,2.48
+Kedah,2017-01-01,female,65+,31,0.62
+Kedah,2017-01-01,male,all,12577,20.83
+Kedah,2017-01-01,male,< 20,152,0.39
+Kedah,2017-01-01,male,20-24,2511,25.63
+Kedah,2017-01-01,male,25-29,5634,105.46
+Kedah,2017-01-01,male,30-34,2316,111.18
+Kedah,2017-01-01,male,35-39,797,74.3
+Kedah,2017-01-01,male,40-44,408,64.74
+Kedah,2017-01-01,male,45-49,239,56.49
+Kedah,2017-01-01,male,50-54,157,38.67
+Kedah,2017-01-01,male,55-59,124,34.9
+Kedah,2017-01-01,male,60-64,100,26.67
+Kedah,2017-01-01,male,65+,139,10.34
+Kedah,2018-01-01,female,all,16123,27.2
+Kedah,2018-01-01,female,< 20,635,1.8
+Kedah,2018-01-01,female,20-24,5396,67.4
+Kedah,2018-01-01,female,25-29,6429,202.0
+Kedah,2018-01-01,female,30-34,1911,156.2
+Kedah,2018-01-01,female,35-39,719,94.6
+Kedah,2018-01-01,female,40-44,329,47.4
+Kedah,2018-01-01,female,45-49,275,33.9
+Kedah,2018-01-01,female,50-54,183,17.0
+Kedah,2018-01-01,female,55-59,111,8.9
+Kedah,2018-01-01,female,60-64,68,4.3
+Kedah,2018-01-01,female,65+,67,1.3
+Kedah,2018-01-01,male,all,14257,23.5
+Kedah,2018-01-01,male,< 20,190,0.5
+Kedah,2018-01-01,male,20-24,2966,29.5
+Kedah,2018-01-01,male,25-29,6228,112.4
+Kedah,2018-01-01,male,30-34,2514,119.2
+Kedah,2018-01-01,male,35-39,921,84.3
+Kedah,2018-01-01,male,40-44,432,68.0
+Kedah,2018-01-01,male,45-49,270,63.6
+Kedah,2018-01-01,male,50-54,206,51.0
+Kedah,2018-01-01,male,55-59,184,50.8
+Kedah,2018-01-01,male,60-64,122,31.7
+Kedah,2018-01-01,male,65+,224,16.0
+Kedah,2019-01-01,female,all,16420,27.7
+Kedah,2019-01-01,female,< 20,614,1.8
+Kedah,2019-01-01,female,20-24,5254,65.4
+Kedah,2019-01-01,female,25-29,6613,202.3
+Kedah,2019-01-01,female,30-34,2015,162.5
+Kedah,2019-01-01,female,35-39,757,97.6
+Kedah,2019-01-01,female,40-44,417,60.4
+Kedah,2019-01-01,female,45-49,285,35.4
+Kedah,2019-01-01,female,50-54,226,20.9
+Kedah,2019-01-01,female,55-59,111,8.9
+Kedah,2019-01-01,female,60-64,76,4.7
+Kedah,2019-01-01,female,65+,52,1.0
+Kedah,2019-01-01,male,all,14384,23.8
+Kedah,2019-01-01,male,< 20,173,0.5
+Kedah,2019-01-01,male,20-24,2795,27.7
+Kedah,2019-01-01,male,25-29,6346,112.0
+Kedah,2019-01-01,male,30-34,2542,119.1
+Kedah,2019-01-01,male,35-39,986,89.8
+Kedah,2019-01-01,male,40-44,440,69.0
+Kedah,2019-01-01,male,45-49,316,74.6
+Kedah,2019-01-01,male,50-54,221,55.5
+Kedah,2019-01-01,male,55-59,200,54.5
+Kedah,2019-01-01,male,60-64,170,43.1
+Kedah,2019-01-01,male,65+,195,13.3
+Kedah,2020-01-01,female,all,16809,28.4
+Kedah,2020-01-01,female,< 20,578,1.7
+Kedah,2020-01-01,female,20-24,5415,68.1
+Kedah,2020-01-01,female,25-29,7010,209.2
+Kedah,2020-01-01,female,30-34,1855,147.2
+Kedah,2020-01-01,female,35-39,820,103.4
+Kedah,2020-01-01,female,40-44,402,58.1
+Kedah,2020-01-01,female,45-49,258,32.3
+Kedah,2020-01-01,female,50-54,189,17.4
+Kedah,2020-01-01,female,55-59,130,10.3
+Kedah,2020-01-01,female,60-64,80,4.8
+Kedah,2020-01-01,female,65+,72,1.3
+Kedah,2020-01-01,male,all,14661,24.4
+Kedah,2020-01-01,male,< 20,175,0.5
+Kedah,2020-01-01,male,20-24,3149,31.4
+Kedah,2020-01-01,male,25-29,6606,114.2
+Kedah,2020-01-01,male,30-34,2439,112.3
+Kedah,2020-01-01,male,35-39,903,81.8
+Kedah,2020-01-01,male,40-44,405,63.5
+Kedah,2020-01-01,male,45-49,279,65.7
+Kedah,2020-01-01,male,50-54,182,46.3
+Kedah,2020-01-01,male,55-59,167,45.3
+Kedah,2020-01-01,male,60-64,124,30.6
+Kedah,2020-01-01,male,65+,232,15.1
+Kedah,2021-01-01,female,all,18790,32.2
+Kedah,2021-01-01,female,< 20,597,1.7
+Kedah,2021-01-01,female,20-24,6165,78.7
+Kedah,2021-01-01,female,25-29,7851,237.9
+Kedah,2021-01-01,female,30-34,2035,164.0
+Kedah,2021-01-01,female,35-39,888,113.7
+Kedah,2021-01-01,female,40-44,453,66.5
+Kedah,2021-01-01,female,45-49,316,40.2
+Kedah,2021-01-01,female,50-54,203,19.0
+Kedah,2021-01-01,female,55-59,154,12.4
+Kedah,2021-01-01,female,60-64,72,4.4
+Kedah,2021-01-01,female,65+,56,1.0
+Kedah,2021-01-01,male,all,15958,25.6
+Kedah,2021-01-01,male,< 20,163,0.4
+Kedah,2021-01-01,male,20-24,3492,33.6
+Kedah,2021-01-01,male,25-29,7123,118.8
+Kedah,2021-01-01,male,30-34,2654,117.9
+Kedah,2021-01-01,male,35-39,1015,88.7
+Kedah,2021-01-01,male,40-44,480,72.6
+Kedah,2021-01-01,male,45-49,274,62.2
+Kedah,2021-01-01,male,50-54,215,52.8
+Kedah,2021-01-01,male,55-59,172,45.0
+Kedah,2021-01-01,male,60-64,150,35.8
+Kedah,2021-01-01,male,65+,220,13.8
+Kedah,2022-01-01,female,all,18584,31.7
+Kedah,2022-01-01,female,< 20,611,1.8
+Kedah,2022-01-01,female,20-24,5597,71.6
+Kedah,2022-01-01,female,25-29,7561,229.8
+Kedah,2022-01-01,female,30-34,2243,181.3
+Kedah,2022-01-01,female,35-39,1019,130.8
+Kedah,2022-01-01,female,40-44,535,78.8
+Kedah,2022-01-01,female,45-49,368,47.0
+Kedah,2022-01-01,female,50-54,282,26.4
+Kedah,2022-01-01,female,55-59,165,13.3
+Kedah,2022-01-01,female,60-64,105,6.4
+Kedah,2022-01-01,female,65+,98,1.7
+Kedah,2022-01-01,male,all,15768,25.4
+Kedah,2022-01-01,male,< 20,149,0.4
+Kedah,2022-01-01,male,20-24,3355,32.4
+Kedah,2022-01-01,male,25-29,6716,112.3
+Kedah,2022-01-01,male,30-34,2665,118.7
+Kedah,2022-01-01,male,35-39,1101,96.5
+Kedah,2022-01-01,male,40-44,519,78.7
+Kedah,2022-01-01,male,45-49,336,76.5
+Kedah,2022-01-01,male,50-54,244,60.0
+Kedah,2022-01-01,male,55-59,209,54.9
+Kedah,2022-01-01,male,60-64,177,42.3
+Kedah,2022-01-01,male,65+,297,18.7
+Kelantan,2017-01-01,female,all,17300,32.2
+Kelantan,2017-01-01,female,< 20,1063,3.01
+Kelantan,2017-01-01,female,20-24,5876,89.95
+Kelantan,2017-01-01,female,25-29,7075,281.72
+Kelantan,2017-01-01,female,30-34,1661,223.28
+Kelantan,2017-01-01,female,35-39,658,132.13
+Kelantan,2017-01-01,female,40-44,351,69.46
+Kelantan,2017-01-01,female,45-49,226,36.63
+Kelantan,2017-01-01,female,50-54,153,18.2
+Kelantan,2017-01-01,female,55-59,124,11.83
+Kelantan,2017-01-01,female,60-64,64,5.26
+Kelantan,2017-01-01,female,65+,49,1.28
+Kelantan,2017-01-01,male,all,14974,26.61
+Kelantan,2017-01-01,male,< 20,262,0.69
+Kelantan,2017-01-01,male,20-24,3177,36.23
+Kelantan,2017-01-01,male,25-29,6903,148.95
+Kelantan,2017-01-01,male,30-34,2412,139.79
+Kelantan,2017-01-01,male,35-39,855,98.12
+Kelantan,2017-01-01,male,40-44,445,109.82
+Kelantan,2017-01-01,male,45-49,259,100.82
+Kelantan,2017-01-01,male,50-54,186,79.52
+Kelantan,2017-01-01,male,55-59,141,63.92
+Kelantan,2017-01-01,male,60-64,123,52.72
+Kelantan,2017-01-01,male,65+,211,22.75
+Kelantan,2018-01-01,female,all,16768,30.9
+Kelantan,2018-01-01,female,< 20,1049,3.0
+Kelantan,2018-01-01,female,20-24,5751,89.3
+Kelantan,2018-01-01,female,25-29,6582,234.7
+Kelantan,2018-01-01,female,30-34,1597,210.5
+Kelantan,2018-01-01,female,35-39,674,131.0
+Kelantan,2018-01-01,female,40-44,385,77.1
+Kelantan,2018-01-01,female,45-49,275,44.6
+Kelantan,2018-01-01,female,50-54,208,24.8
+Kelantan,2018-01-01,female,55-59,136,12.7
+Kelantan,2018-01-01,female,60-64,66,5.2
+Kelantan,2018-01-01,female,65+,45,1.1
+Kelantan,2018-01-01,male,all,14700,25.8
+Kelantan,2018-01-01,male,< 20,264,0.7
+Kelantan,2018-01-01,male,20-24,3105,35.9
+Kelantan,2018-01-01,male,25-29,6692,129.1
+Kelantan,2018-01-01,male,30-34,2431,137.7
+Kelantan,2018-01-01,male,35-39,805,87.6
+Kelantan,2018-01-01,male,40-44,398,96.9
+Kelantan,2018-01-01,male,45-49,265,103.8
+Kelantan,2018-01-01,male,50-54,188,80.9
+Kelantan,2018-01-01,male,55-59,183,81.4
+Kelantan,2018-01-01,male,60-64,125,51.6
+Kelantan,2018-01-01,male,65+,244,25.5
+Kelantan,2019-01-01,female,all,16765,30.8
+Kelantan,2019-01-01,female,< 20,1130,3.2
+Kelantan,2019-01-01,female,20-24,5694,90.6
+Kelantan,2019-01-01,female,25-29,6455,213.0
+Kelantan,2019-01-01,female,30-34,1714,218.0
+Kelantan,2019-01-01,female,35-39,652,123.5
+Kelantan,2019-01-01,female,40-44,387,78.0
+Kelantan,2019-01-01,female,45-49,288,47.2
+Kelantan,2019-01-01,female,50-54,213,25.5
+Kelantan,2019-01-01,female,55-59,105,9.6
+Kelantan,2019-01-01,female,60-64,77,5.8
+Kelantan,2019-01-01,female,65+,50,1.2
+Kelantan,2019-01-01,male,all,14530,25.4
+Kelantan,2019-01-01,male,< 20,297,0.8
+Kelantan,2019-01-01,male,20-24,3116,37.0
+Kelantan,2019-01-01,male,25-29,6538,117.4
+Kelantan,2019-01-01,male,30-34,2357,128.3
+Kelantan,2019-01-01,male,35-39,806,84.7
+Kelantan,2019-01-01,male,40-44,425,101.3
+Kelantan,2019-01-01,male,45-49,261,103.6
+Kelantan,2019-01-01,male,50-54,196,85.1
+Kelantan,2019-01-01,male,55-59,183,80.9
+Kelantan,2019-01-01,male,60-64,126,50.4
+Kelantan,2019-01-01,male,65+,225,22.7
+Kelantan,2020-01-01,female,all,16134,29.5
+Kelantan,2020-01-01,female,< 20,1077,3.1
+Kelantan,2020-01-01,female,20-24,5472,89.6
+Kelantan,2020-01-01,female,25-29,6104,192.7
+Kelantan,2020-01-01,female,30-34,1632,194.0
+Kelantan,2020-01-01,female,35-39,729,135.3
+Kelantan,2020-01-01,female,40-44,414,83.5
+Kelantan,2020-01-01,female,45-49,253,41.9
+Kelantan,2020-01-01,female,50-54,215,25.9
+Kelantan,2020-01-01,female,55-59,108,9.8
+Kelantan,2020-01-01,female,60-64,72,5.2
+Kelantan,2020-01-01,female,65+,58,1.3
+Kelantan,2020-01-01,male,all,13984,24.3
+Kelantan,2020-01-01,male,< 20,282,0.7
+Kelantan,2020-01-01,male,20-24,2979,36.3
+Kelantan,2020-01-01,male,25-29,6270,108.4
+Kelantan,2020-01-01,male,30-34,2257,114.2
+Kelantan,2020-01-01,male,35-39,817,83.9
+Kelantan,2020-01-01,male,40-44,402,92.8
+Kelantan,2020-01-01,male,45-49,266,106.7
+Kelantan,2020-01-01,male,50-54,184,80.5
+Kelantan,2020-01-01,male,55-59,182,80.3
+Kelantan,2020-01-01,male,60-64,129,49.9
+Kelantan,2020-01-01,male,65+,216,21.0
+Kelantan,2021-01-01,female,all,19912,35.4
+Kelantan,2021-01-01,female,< 20,1210,3.3
+Kelantan,2021-01-01,female,20-24,6636,105.8
+Kelantan,2021-01-01,female,25-29,7941,244.0
+Kelantan,2021-01-01,female,30-34,2013,233.0
+Kelantan,2021-01-01,female,35-39,859,155.1
+Kelantan,2021-01-01,female,40-44,458,89.9
+Kelantan,2021-01-01,female,45-49,298,48.1
+Kelantan,2021-01-01,female,50-54,198,23.2
+Kelantan,2021-01-01,female,55-59,158,14.0
+Kelantan,2021-01-01,female,60-64,81,5.7
+Kelantan,2021-01-01,female,65+,60,1.3
+Kelantan,2021-01-01,male,all,22347,38.8
+Kelantan,2021-01-01,male,< 20,328,0.9
+Kelantan,2021-01-01,male,20-24,4812,58.5
+Kelantan,2021-01-01,male,25-29,10428,179.8
+Kelantan,2021-01-01,male,30-34,3632,183.3
+Kelantan,2021-01-01,male,35-39,1323,135.6
+Kelantan,2021-01-01,male,40-44,595,137.0
+Kelantan,2021-01-01,male,45-49,348,139.2
+Kelantan,2021-01-01,male,50-54,277,120.9
+Kelantan,2021-01-01,male,55-59,185,81.4
+Kelantan,2021-01-01,male,60-64,173,66.7
+Kelantan,2021-01-01,male,65+,246,23.8
+Kelantan,2022-01-01,female,all,18297,32.3
+Kelantan,2022-01-01,female,< 20,1075,2.9
+Kelantan,2022-01-01,female,20-24,5615,89.0
+Kelantan,2022-01-01,female,25-29,7041,215.1
+Kelantan,2022-01-01,female,30-34,2095,241.1
+Kelantan,2022-01-01,female,35-39,945,169.7
+Kelantan,2022-01-01,female,40-44,515,100.5
+Kelantan,2022-01-01,female,45-49,395,63.4
+Kelantan,2022-01-01,female,50-54,250,29.2
+Kelantan,2022-01-01,female,55-59,180,15.8
+Kelantan,2022-01-01,female,60-64,104,7.2
+Kelantan,2022-01-01,female,65+,82,1.8
+Kelantan,2022-01-01,male,all,20558,35.4
+Kelantan,2022-01-01,male,< 20,271,0.7
+Kelantan,2022-01-01,male,20-24,4409,53.2
+Kelantan,2022-01-01,male,25-29,9085,155.5
+Kelantan,2022-01-01,male,30-34,3418,171.3
+Kelantan,2022-01-01,male,35-39,1350,137.3
+Kelantan,2022-01-01,male,40-44,669,152.9
+Kelantan,2022-01-01,male,45-49,425,168.8
+Kelantan,2022-01-01,male,50-54,317,137.3
+Kelantan,2022-01-01,male,55-59,275,120.1
+Kelantan,2022-01-01,male,60-64,220,84.3
+Kelantan,2022-01-01,male,65+,119,11.4
+Melaka,2017-01-01,female,all,6742,27.29
+Melaka,2017-01-01,female,< 20,195,1.4
+Melaka,2017-01-01,female,20-24,1964,52.94
+Melaka,2017-01-01,female,25-29,2862,160.53
+Melaka,2017-01-01,female,30-34,937,135.6
+Melaka,2017-01-01,female,35-39,358,84.04
+Melaka,2017-01-01,female,40-44,163,56.48
+Melaka,2017-01-01,female,45-49,117,31.13
+Melaka,2017-01-01,female,50-54,75,16.83
+Melaka,2017-01-01,female,55-59,35,7.08
+Melaka,2017-01-01,female,60-64,25,4.43
+Melaka,2017-01-01,female,65+,11,0.56
+Melaka,2017-01-01,male,all,6769,27.22
+Melaka,2017-01-01,male,< 20,57,0.39
+Melaka,2017-01-01,male,20-24,1229,29.42
+Melaka,2017-01-01,male,25-29,2993,112.73
+Melaka,2017-01-01,male,30-34,1330,126.5
+Melaka,2017-01-01,male,35-39,493,96.97
+Melaka,2017-01-01,male,40-44,260,85.55
+Melaka,2017-01-01,male,45-49,123,57.45
+Melaka,2017-01-01,male,50-54,99,45.94
+Melaka,2017-01-01,male,55-59,83,42.0
+Melaka,2017-01-01,male,60-64,47,23.69
+Melaka,2017-01-01,male,65+,55,8.26
+Melaka,2018-01-01,female,all,6840,27.6
+Melaka,2018-01-01,female,< 20,197,1.4
+Melaka,2018-01-01,female,20-24,1931,54.6
+Melaka,2018-01-01,female,25-29,2821,150.6
+Melaka,2018-01-01,female,30-34,1026,145.8
+Melaka,2018-01-01,female,35-39,393,87.1
+Melaka,2018-01-01,female,40-44,201,69.6
+Melaka,2018-01-01,female,45-49,103,28.3
+Melaka,2018-01-01,female,50-54,90,19.6
+Melaka,2018-01-01,female,55-59,40,7.9
+Melaka,2018-01-01,female,60-64,28,4.8
+Melaka,2018-01-01,female,65+,10,0.5
+Melaka,2018-01-01,male,all,6971,28.0
+Melaka,2018-01-01,male,< 20,63,0.4
+Melaka,2018-01-01,male,20-24,1173,29.1
+Melaka,2018-01-01,male,25-29,3119,112.8
+Melaka,2018-01-01,male,30-34,1333,123.4
+Melaka,2018-01-01,male,35-39,518,98.6
+Melaka,2018-01-01,male,40-44,269,88.2
+Melaka,2018-01-01,male,45-49,172,80.3
+Melaka,2018-01-01,male,50-54,110,52.0
+Melaka,2018-01-01,male,55-59,89,43.7
+Melaka,2018-01-01,male,60-64,59,29.0
+Melaka,2018-01-01,male,65+,66,9.4
+Melaka,2019-01-01,female,all,6867,27.7
+Melaka,2019-01-01,female,< 20,207,1.5
+Melaka,2019-01-01,female,20-24,1850,55.0
+Melaka,2019-01-01,female,25-29,2872,149.1
+Melaka,2019-01-01,female,30-34,998,139.1
+Melaka,2019-01-01,female,35-39,401,84.4
+Melaka,2019-01-01,female,40-44,225,77.1
+Melaka,2019-01-01,female,45-49,131,37.5
+Melaka,2019-01-01,female,50-54,79,16.9
+Melaka,2019-01-01,female,55-59,52,10.1
+Melaka,2019-01-01,female,60-64,31,5.1
+Melaka,2019-01-01,female,65+,21,1.0
+Melaka,2019-01-01,male,all,6826,27.5
+Melaka,2019-01-01,male,< 20,77,0.5
+Melaka,2019-01-01,male,20-24,1166,30.2
+Melaka,2019-01-01,male,25-29,2976,106.0
+Melaka,2019-01-01,male,30-34,1307,117.1
+Melaka,2019-01-01,male,35-39,531,97.9
+Melaka,2019-01-01,male,40-44,293,94.6
+Melaka,2019-01-01,male,45-49,165,77.1
+Melaka,2019-01-01,male,50-54,98,47.3
+Melaka,2019-01-01,male,55-59,90,43.5
+Melaka,2019-01-01,male,60-64,51,24.3
+Melaka,2019-01-01,male,65+,72,9.9
+Melaka,2020-01-01,female,all,6340,25.6
+Melaka,2020-01-01,female,< 20,141,1.0
+Melaka,2020-01-01,female,20-24,1802,56.0
+Melaka,2020-01-01,female,25-29,2700,140.1
+Melaka,2020-01-01,female,30-34,875,118.3
+Melaka,2020-01-01,female,35-39,345,69.7
+Melaka,2020-01-01,female,40-44,176,58.8
+Melaka,2020-01-01,female,45-49,115,34.0
+Melaka,2020-01-01,female,50-54,77,16.5
+Melaka,2020-01-01,female,55-59,51,9.7
+Melaka,2020-01-01,female,60-64,29,4.6
+Melaka,2020-01-01,female,65+,29,1.3
+Melaka,2020-01-01,male,all,6340,25.8
+Melaka,2020-01-01,male,< 20,29,0.2
+Melaka,2020-01-01,male,20-24,1144,31.1
+Melaka,2020-01-01,male,25-29,2878,103.8
+Melaka,2020-01-01,male,30-34,1170,101.0
+Melaka,2020-01-01,male,35-39,470,85.2
+Melaka,2020-01-01,male,40-44,241,76.1
+Melaka,2020-01-01,male,45-49,105,49.3
+Melaka,2020-01-01,male,50-54,98,47.8
+Melaka,2020-01-01,male,55-59,74,35.5
+Melaka,2020-01-01,male,60-64,50,23.1
+Melaka,2020-01-01,male,65+,81,10.6
+Melaka,2021-01-01,female,all,7413,27.9
+Melaka,2021-01-01,female,< 20,156,1.0
+Melaka,2021-01-01,female,20-24,2168,62.7
+Melaka,2021-01-01,female,25-29,3189,154.1
+Melaka,2021-01-01,female,30-34,974,122.6
+Melaka,2021-01-01,female,35-39,444,83.5
+Melaka,2021-01-01,female,40-44,196,61.0
+Melaka,2021-01-01,female,45-49,142,39.1
+Melaka,2021-01-01,female,50-54,65,13.0
+Melaka,2021-01-01,female,55-59,38,6.7
+Melaka,2021-01-01,female,60-64,24,3.6
+Melaka,2021-01-01,female,65+,17,0.7
+Melaka,2021-01-01,male,all,7287,25.0
+Melaka,2021-01-01,male,< 20,39,0.2
+Melaka,2021-01-01,male,20-24,1465,33.6
+Melaka,2021-01-01,male,25-29,3318,100.9
+Melaka,2021-01-01,male,30-34,1319,96.0
+Melaka,2021-01-01,male,35-39,527,80.5
+Melaka,2021-01-01,male,40-44,223,59.4
+Melaka,2021-01-01,male,45-49,137,54.2
+Melaka,2021-01-01,male,50-54,83,34.1
+Melaka,2021-01-01,male,55-59,60,24.3
+Melaka,2021-01-01,male,60-64,49,19.1
+Melaka,2021-01-01,male,65+,67,7.4
+Melaka,2022-01-01,female,all,6920,26.1
+Melaka,2022-01-01,female,< 20,142,1.0
+Melaka,2022-01-01,female,20-24,1684,48.8
+Melaka,2022-01-01,female,25-29,2926,141.6
+Melaka,2022-01-01,female,30-34,1089,137.3
+Melaka,2022-01-01,female,35-39,483,91.0
+Melaka,2022-01-01,female,40-44,244,76.1
+Melaka,2022-01-01,female,45-49,146,40.3
+Melaka,2022-01-01,female,50-54,82,16.4
+Melaka,2022-01-01,female,55-59,69,12.2
+Melaka,2022-01-01,female,60-64,30,4.5
+Melaka,2022-01-01,female,65+,25,1.0
+Melaka,2022-01-01,male,all,6912,23.7
+Melaka,2022-01-01,male,< 20,45,0.3
+Melaka,2022-01-01,male,20-24,1175,27.0
+Melaka,2022-01-01,male,25-29,2966,90.4
+Melaka,2022-01-01,male,30-34,1345,98.0
+Melaka,2022-01-01,male,35-39,584,89.4
+Melaka,2022-01-01,male,40-44,264,70.4
+Melaka,2022-01-01,male,45-49,188,74.5
+Melaka,2022-01-01,male,50-54,128,52.7
+Melaka,2022-01-01,male,55-59,80,32.4
+Melaka,2022-01-01,male,60-64,64,25.0
+Melaka,2022-01-01,male,65+,73,8.1
+Negeri Sembilan,2017-01-01,female,all,8752,30.02
+Negeri Sembilan,2017-01-01,female,< 20,329,1.9
+Negeri Sembilan,2017-01-01,female,20-24,2384,65.01
+Negeri Sembilan,2017-01-01,female,25-29,3634,188.09
+Negeri Sembilan,2017-01-01,female,30-34,1232,157.65
+Negeri Sembilan,2017-01-01,female,35-39,533,113.89
+Negeri Sembilan,2017-01-01,female,40-44,267,67.31
+Negeri Sembilan,2017-01-01,female,45-49,149,35.75
+Negeri Sembilan,2017-01-01,female,50-54,109,20.5
+Negeri Sembilan,2017-01-01,female,55-59,72,11.42
+Negeri Sembilan,2017-01-01,female,60-64,28,3.71
+Negeri Sembilan,2017-01-01,female,65+,15,0.65
+Negeri Sembilan,2017-01-01,male,all,9022,28.52
+Negeri Sembilan,2017-01-01,male,< 20,119,0.62
+Negeri Sembilan,2017-01-01,male,20-24,1421,29.07
+Negeri Sembilan,2017-01-01,male,25-29,3900,114.56
+Negeri Sembilan,2017-01-01,male,30-34,1909,137.35
+Negeri Sembilan,2017-01-01,male,35-39,739,108.66
+Negeri Sembilan,2017-01-01,male,40-44,323,79.75
+Negeri Sembilan,2017-01-01,male,45-49,188,64.78
+Negeri Sembilan,2017-01-01,male,50-54,146,56.26
+Negeri Sembilan,2017-01-01,male,55-59,111,47.11
+Negeri Sembilan,2017-01-01,male,60-64,70,27.13
+Negeri Sembilan,2017-01-01,male,65+,96,12.28
+Negeri Sembilan,2018-01-01,female,all,8609,29.4
+Negeri Sembilan,2018-01-01,female,< 20,296,1.7
+Negeri Sembilan,2018-01-01,female,20-24,2208,60.7
+Negeri Sembilan,2018-01-01,female,25-29,3579,181.2
+Negeri Sembilan,2018-01-01,female,30-34,1325,165.2
+Negeri Sembilan,2018-01-01,female,35-39,525,110.0
+Negeri Sembilan,2018-01-01,female,40-44,259,65.1
+Negeri Sembilan,2018-01-01,female,45-49,179,43.0
+Negeri Sembilan,2018-01-01,female,50-54,115,21.7
+Negeri Sembilan,2018-01-01,female,55-59,74,11.8
+Negeri Sembilan,2018-01-01,female,60-64,32,4.1
+Negeri Sembilan,2018-01-01,female,65+,17,0.7
+Negeri Sembilan,2018-01-01,male,all,8807,27.9
+Negeri Sembilan,2018-01-01,male,< 20,90,0.5
+Negeri Sembilan,2018-01-01,male,20-24,1468,30.4
+Negeri Sembilan,2018-01-01,male,25-29,3784,109.6
+Negeri Sembilan,2018-01-01,male,30-34,1797,122.8
+Negeri Sembilan,2018-01-01,male,35-39,699,101.6
+Negeri Sembilan,2018-01-01,male,40-44,361,88.2
+Negeri Sembilan,2018-01-01,male,45-49,167,57.1
+Negeri Sembilan,2018-01-01,male,50-54,130,50.8
+Negeri Sembilan,2018-01-01,male,55-59,106,45.0
+Negeri Sembilan,2018-01-01,male,60-64,96,36.9
+Negeri Sembilan,2018-01-01,male,65+,109,13.3
+Negeri Sembilan,2019-01-01,female,all,8506,29.0
+Negeri Sembilan,2019-01-01,female,< 20,266,1.6
+Negeri Sembilan,2019-01-01,female,20-24,2031,56.8
+Negeri Sembilan,2019-01-01,female,25-29,3634,181.7
+Negeri Sembilan,2019-01-01,female,30-34,1282,157.5
+Negeri Sembilan,2019-01-01,female,35-39,603,122.6
+Negeri Sembilan,2019-01-01,female,40-44,289,73.0
+Negeri Sembilan,2019-01-01,female,45-49,168,40.3
+Negeri Sembilan,2019-01-01,female,50-54,116,22.1
+Negeri Sembilan,2019-01-01,female,55-59,65,10.3
+Negeri Sembilan,2019-01-01,female,60-64,34,4.2
+Negeri Sembilan,2019-01-01,female,65+,18,0.7
+Negeri Sembilan,2019-01-01,male,all,8689,27.7
+Negeri Sembilan,2019-01-01,male,< 20,76,0.4
+Negeri Sembilan,2019-01-01,male,20-24,1291,27.3
+Negeri Sembilan,2019-01-01,male,25-29,3728,108.7
+Negeri Sembilan,2019-01-01,male,30-34,1823,120.3
+Negeri Sembilan,2019-01-01,male,35-39,766,110.2
+Negeri Sembilan,2019-01-01,male,40-44,365,89.0
+Negeri Sembilan,2019-01-01,male,45-49,179,61.0
+Negeri Sembilan,2019-01-01,male,50-54,148,58.8
+Negeri Sembilan,2019-01-01,male,55-59,135,57.8
+Negeri Sembilan,2019-01-01,male,60-64,79,30.5
+Negeri Sembilan,2019-01-01,male,65+,99,11.5
+Negeri Sembilan,2020-01-01,female,all,7994,27.3
+Negeri Sembilan,2020-01-01,female,< 20,226,1.3
+Negeri Sembilan,2020-01-01,female,20-24,1940,55.2
+Negeri Sembilan,2020-01-01,female,25-29,3424,170.4
+Negeri Sembilan,2020-01-01,female,30-34,1192,145.1
+Negeri Sembilan,2020-01-01,female,35-39,544,106.6
+Negeri Sembilan,2020-01-01,female,40-44,246,62.5
+Negeri Sembilan,2020-01-01,female,45-49,165,39.5
+Negeri Sembilan,2020-01-01,female,50-54,133,25.7
+Negeri Sembilan,2020-01-01,female,55-59,68,10.7
+Negeri Sembilan,2020-01-01,female,60-64,34,4.1
+Negeri Sembilan,2020-01-01,female,65+,22,0.8
+Negeri Sembilan,2020-01-01,male,all,8246,26.6
+Negeri Sembilan,2020-01-01,male,< 20,66,0.4
+Negeri Sembilan,2020-01-01,male,20-24,1365,29.6
+Negeri Sembilan,2020-01-01,male,25-29,3589,106.7
+Negeri Sembilan,2020-01-01,male,30-34,1604,103.4
+Negeri Sembilan,2020-01-01,male,35-39,694,97.9
+Negeri Sembilan,2020-01-01,male,40-44,323,78.8
+Negeri Sembilan,2020-01-01,male,45-49,177,60.2
+Negeri Sembilan,2020-01-01,male,50-54,117,46.8
+Negeri Sembilan,2020-01-01,male,55-59,118,51.1
+Negeri Sembilan,2020-01-01,male,60-64,84,32.2
+Negeri Sembilan,2020-01-01,male,65+,109,12.0
+Negeri Sembilan,2021-01-01,female,all,9285,27.7
+Negeri Sembilan,2021-01-01,female,< 20,215,1.1
+Negeri Sembilan,2021-01-01,female,20-24,2261,45.3
+Negeri Sembilan,2021-01-01,female,25-29,4154,113.9
+Negeri Sembilan,2021-01-01,female,30-34,1312,78.0
+Negeri Sembilan,2021-01-01,female,35-39,606,78.8
+Negeri Sembilan,2021-01-01,female,40-44,314,70.6
+Negeri Sembilan,2021-01-01,female,45-49,179,56.1
+Negeri Sembilan,2021-01-01,female,50-54,100,36.9
+Negeri Sembilan,2021-01-01,female,55-59,67,26.8
+Negeri Sembilan,2021-01-01,female,60-64,50,17.7
+Negeri Sembilan,2021-01-01,female,65+,27,2.8
+Negeri Sembilan,2021-01-01,male,all,9370,26.6
+Negeri Sembilan,2021-01-01,male,< 20,60,0.3
+Negeri Sembilan,2021-01-01,male,20-24,1528,29.1
+Negeri Sembilan,2021-01-01,male,25-29,4243,110.8
+Negeri Sembilan,2021-01-01,male,30-34,1846,104.4
+Negeri Sembilan,2021-01-01,male,35-39,781,96.7
+Negeri Sembilan,2021-01-01,male,40-44,348,74.5
+Negeri Sembilan,2021-01-01,male,45-49,172,51.3
+Negeri Sembilan,2021-01-01,male,50-54,136,47.8
+Negeri Sembilan,2021-01-01,male,55-59,89,33.9
+Negeri Sembilan,2021-01-01,male,60-64,78,26.3
+Negeri Sembilan,2021-01-01,male,65+,89,8.6
+Negeri Sembilan,2022-01-01,female,all,8843,26.3
+Negeri Sembilan,2022-01-01,female,< 20,192,1.0
+Negeri Sembilan,2022-01-01,female,20-24,1865,37.4
+Negeri Sembilan,2022-01-01,female,25-29,3795,104.2
+Negeri Sembilan,2022-01-01,female,30-34,1443,85.9
+Negeri Sembilan,2022-01-01,female,35-39,667,86.8
+Negeri Sembilan,2022-01-01,female,40-44,346,77.9
+Negeri Sembilan,2022-01-01,female,45-49,227,71.2
+Negeri Sembilan,2022-01-01,female,50-54,135,49.9
+Negeri Sembilan,2022-01-01,female,55-59,85,34.0
+Negeri Sembilan,2022-01-01,female,60-64,61,21.6
+Negeri Sembilan,2022-01-01,female,65+,27,2.8
+Negeri Sembilan,2022-01-01,male,all,8915,25.4
+Negeri Sembilan,2022-01-01,male,< 20,47,0.2
+Negeri Sembilan,2022-01-01,male,20-24,1284,24.6
+Negeri Sembilan,2022-01-01,male,25-29,3736,97.8
+Negeri Sembilan,2022-01-01,male,30-34,1875,106.4
+Negeri Sembilan,2022-01-01,male,35-39,832,103.4
+Negeri Sembilan,2022-01-01,male,40-44,413,88.7
+Negeri Sembilan,2022-01-01,male,45-49,225,67.3
+Negeri Sembilan,2022-01-01,male,50-54,141,49.7
+Negeri Sembilan,2022-01-01,male,55-59,145,55.3
+Negeri Sembilan,2022-01-01,male,60-64,107,36.1
+Negeri Sembilan,2022-01-01,male,65+,110,10.7
+Pahang,2017-01-01,female,all,12821,30.85
+Pahang,2017-01-01,female,< 20,798,2.93
+Pahang,2017-01-01,female,20-24,3842,79.72
+Pahang,2017-01-01,female,25-29,5064,252.47
+Pahang,2017-01-01,female,30-34,1598,166.84
+Pahang,2017-01-01,female,35-39,674,116.33
+Pahang,2017-01-01,female,40-44,339,76.84
+Pahang,2017-01-01,female,45-49,223,50.16
+Pahang,2017-01-01,female,50-54,154,26.12
+Pahang,2017-01-01,female,55-59,54,7.41
+Pahang,2017-01-01,female,60-64,43,5.2
+Pahang,2017-01-01,female,65+,32,1.09
+Pahang,2017-01-01,male,all,12365,25.93
+Pahang,2017-01-01,male,< 20,230,0.77
+Pahang,2017-01-01,male,20-24,2323,33.75
+Pahang,2017-01-01,male,25-29,5362,125.74
+Pahang,2017-01-01,male,30-34,2257,103.4
+Pahang,2017-01-01,male,35-39,884,71.3
+Pahang,2017-01-01,male,40-44,417,70.92
+Pahang,2017-01-01,male,45-49,253,68.14
+Pahang,2017-01-01,male,50-54,206,61.71
+Pahang,2017-01-01,male,55-59,142,49.6
+Pahang,2017-01-01,male,60-64,110,36.42
+Pahang,2017-01-01,male,65+,181,14.57
+Pahang,2018-01-01,female,all,12439,29.8
+Pahang,2018-01-01,female,< 20,831,3.1
+Pahang,2018-01-01,female,20-24,3612,75.0
+Pahang,2018-01-01,female,25-29,4721,224.2
+Pahang,2018-01-01,female,30-34,1611,168.8
+Pahang,2018-01-01,female,35-39,689,109.3
+Pahang,2018-01-01,female,40-44,394,90.9
+Pahang,2018-01-01,female,45-49,248,55.8
+Pahang,2018-01-01,female,50-54,168,28.7
+Pahang,2018-01-01,female,55-59,74,9.9
+Pahang,2018-01-01,female,60-64,52,6.0
+Pahang,2018-01-01,female,65+,39,1.3
+Pahang,2018-01-01,male,all,12290,25.7
+Pahang,2018-01-01,male,< 20,277,0.9
+Pahang,2018-01-01,male,20-24,2347,34.6
+Pahang,2018-01-01,male,25-29,5098,114.1
+Pahang,2018-01-01,male,30-34,2281,106.4
+Pahang,2018-01-01,male,35-39,881,66.4
+Pahang,2018-01-01,male,40-44,459,77.1
+Pahang,2018-01-01,male,45-49,274,73.5
+Pahang,2018-01-01,male,50-54,189,56.7
+Pahang,2018-01-01,male,55-59,162,56.1
+Pahang,2018-01-01,male,60-64,129,41.3
+Pahang,2018-01-01,male,65+,193,14.8
+Pahang,2019-01-01,female,all,11817,28.3
+Pahang,2019-01-01,female,< 20,687,2.6
+Pahang,2019-01-01,female,20-24,3277,68.5
+Pahang,2019-01-01,female,25-29,4578,210.4
+Pahang,2019-01-01,female,30-34,1496,155.5
+Pahang,2019-01-01,female,35-39,765,114.1
+Pahang,2019-01-01,female,40-44,389,89.6
+Pahang,2019-01-01,female,45-49,236,53.7
+Pahang,2019-01-01,female,50-54,200,34.6
+Pahang,2019-01-01,female,55-59,108,14.3
+Pahang,2019-01-01,female,60-64,44,4.9
+Pahang,2019-01-01,female,65+,37,1.1
+Pahang,2019-01-01,male,all,11867,25.0
+Pahang,2019-01-01,male,< 20,238,0.8
+Pahang,2019-01-01,male,20-24,2191,33.3
+Pahang,2019-01-01,male,25-29,4907,107.9
+Pahang,2019-01-01,male,30-34,2131,101.9
+Pahang,2019-01-01,male,35-39,951,69.1
+Pahang,2019-01-01,male,40-44,470,77.4
+Pahang,2019-01-01,male,45-49,274,73.6
+Pahang,2019-01-01,male,50-54,219,66.0
+Pahang,2019-01-01,male,55-59,171,59.3
+Pahang,2019-01-01,male,60-64,119,37.2
+Pahang,2019-01-01,male,65+,196,14.4
+Pahang,2020-01-01,female,all,10552,25.3
+Pahang,2020-01-01,female,< 20,555,2.1
+Pahang,2020-01-01,female,20-24,3050,64.3
+Pahang,2020-01-01,female,25-29,4132,186.7
+Pahang,2020-01-01,female,30-34,1301,131.6
+Pahang,2020-01-01,female,35-39,612,87.7
+Pahang,2020-01-01,female,40-44,348,77.6
+Pahang,2020-01-01,female,45-49,232,53.6
+Pahang,2020-01-01,female,50-54,135,23.6
+Pahang,2020-01-01,female,55-59,95,12.5
+Pahang,2020-01-01,female,60-64,48,5.1
+Pahang,2020-01-01,female,65+,44,1.3
+Pahang,2020-01-01,male,all,10702,22.8
+Pahang,2020-01-01,male,< 20,165,0.6
+Pahang,2020-01-01,male,20-24,1992,31.1
+Pahang,2020-01-01,male,25-29,4545,99.8
+Pahang,2020-01-01,male,30-34,1928,92.8
+Pahang,2020-01-01,male,35-39,823,59.1
+Pahang,2020-01-01,male,40-44,423,67.1
+Pahang,2020-01-01,male,45-49,238,64.0
+Pahang,2020-01-01,male,50-54,168,51.0
+Pahang,2020-01-01,male,55-59,130,44.9
+Pahang,2020-01-01,male,60-64,106,32.5
+Pahang,2020-01-01,male,65+,184,12.9
+Pahang,2021-01-01,female,all,10963,26.1
+Pahang,2021-01-01,female,< 20,436,1.6
+Pahang,2021-01-01,female,20-24,3251,67.9
+Pahang,2021-01-01,female,25-29,4476,200.5
+Pahang,2021-01-01,female,30-34,1372,137.6
+Pahang,2021-01-01,female,35-39,611,86.8
+Pahang,2021-01-01,female,40-44,319,70.5
+Pahang,2021-01-01,female,45-49,219,50.1
+Pahang,2021-01-01,female,50-54,136,23.6
+Pahang,2021-01-01,female,55-59,67,8.7
+Pahang,2021-01-01,female,60-64,47,5.0
+Pahang,2021-01-01,female,65+,29,0.8
+Pahang,2021-01-01,male,all,10744,22.1
+Pahang,2021-01-01,male,< 20,116,0.4
+Pahang,2021-01-01,male,20-24,2097,31.6
+Pahang,2021-01-01,male,25-29,4644,98.4
+Pahang,2021-01-01,male,30-34,1986,92.2
+Pahang,2021-01-01,male,35-39,800,55.4
+Pahang,2021-01-01,male,40-44,364,55.7
+Pahang,2021-01-01,male,45-49,237,61.4
+Pahang,2021-01-01,male,50-54,145,42.5
+Pahang,2021-01-01,male,55-59,120,40.0
+Pahang,2021-01-01,male,60-64,95,28.1
+Pahang,2021-01-01,male,65+,140,9.5
+Pahang,2022-01-01,female,all,10916,25.8
+Pahang,2022-01-01,female,< 20,425,1.6
+Pahang,2022-01-01,female,20-24,2894,60.2
+Pahang,2022-01-01,female,25-29,4095,182.6
+Pahang,2022-01-01,female,30-34,1541,153.9
+Pahang,2022-01-01,female,35-39,777,109.9
+Pahang,2022-01-01,female,40-44,470,103.5
+Pahang,2022-01-01,female,45-49,287,65.4
+Pahang,2022-01-01,female,50-54,190,32.8
+Pahang,2022-01-01,female,55-59,112,14.5
+Pahang,2022-01-01,female,60-64,77,8.2
+Pahang,2022-01-01,female,65+,48,1.4
+Pahang,2022-01-01,male,all,10369,21.3
+Pahang,2022-01-01,male,< 20,106,0.3
+Pahang,2022-01-01,male,20-24,1823,27.4
+Pahang,2022-01-01,male,25-29,4023,85.1
+Pahang,2022-01-01,male,30-34,1976,91.6
+Pahang,2022-01-01,male,35-39,967,66.8
+Pahang,2022-01-01,male,40-44,477,72.8
+Pahang,2022-01-01,male,45-49,300,77.7
+Pahang,2022-01-01,male,50-54,205,59.9
+Pahang,2022-01-01,male,55-59,170,56.6
+Pahang,2022-01-01,male,60-64,109,32.1
+Pahang,2022-01-01,male,65+,213,14.4
+Perak,2017-01-01,female,all,18726,28.67
+Perak,2017-01-01,female,< 20,727,1.89
+Perak,2017-01-01,female,20-24,5066,63.86
+Perak,2017-01-01,female,25-29,7698,189.76
+Perak,2017-01-01,female,30-34,2793,186.41
+Perak,2017-01-01,female,35-39,1039,112.79
+Perak,2017-01-01,female,40-44,541,72.95
+Perak,2017-01-01,female,45-49,402,43.94
+Perak,2017-01-01,female,50-54,218,17.59
+Perak,2017-01-01,female,55-59,142,10.27
+Perak,2017-01-01,female,60-64,56,3.23
+Perak,2017-01-01,female,65+,44,0.69
+Perak,2017-01-01,male,all,17611,26.88
+Perak,2017-01-01,male,< 20,202,0.51
+Perak,2017-01-01,male,20-24,2890,31.54
+Perak,2017-01-01,male,25-29,7227,106.32
+Perak,2017-01-01,male,30-34,3718,130.6
+Perak,2017-01-01,male,35-39,1496,105.0
+Perak,2017-01-01,male,40-44,736,79.0
+Perak,2017-01-01,male,45-49,430,61.99
+Perak,2017-01-01,male,50-54,306,44.46
+Perak,2017-01-01,male,55-59,227,36.39
+Perak,2017-01-01,male,60-64,169,26.17
+Perak,2017-01-01,male,65+,210,9.46
+Perak,2018-01-01,female,all,18619,28.6
+Perak,2018-01-01,female,< 20,716,1.9
+Perak,2018-01-01,female,20-24,4913,62.0
+Perak,2018-01-01,female,25-29,7526,175.8
+Perak,2018-01-01,female,30-34,2849,184.2
+Perak,2018-01-01,female,35-39,1164,124.3
+Perak,2018-01-01,female,40-44,552,74.9
+Perak,2018-01-01,female,45-49,391,44.2
+Perak,2018-01-01,female,50-54,249,20.1
+Perak,2018-01-01,female,55-59,142,10.2
+Perak,2018-01-01,female,60-64,73,4.1
+Perak,2018-01-01,female,65+,44,0.7
+Perak,2018-01-01,male,all,17616,27.1
+Perak,2018-01-01,male,< 20,169,0.4
+Perak,2018-01-01,male,20-24,3053,33.2
+Perak,2018-01-01,male,25-29,6959,101.3
+Perak,2018-01-01,male,30-34,3881,127.0
+Perak,2018-01-01,male,35-39,1537,107.7
+Perak,2018-01-01,male,40-44,723,77.9
+Perak,2018-01-01,male,45-49,431,63.5
+Perak,2018-01-01,male,50-54,281,41.8
+Perak,2018-01-01,male,55-59,229,36.6
+Perak,2018-01-01,male,60-64,149,22.6
+Perak,2018-01-01,male,65+,204,8.8
+Perak,2019-01-01,female,all,18775,29.0
+Perak,2019-01-01,female,< 20,747,2.0
+Perak,2019-01-01,female,20-24,4587,58.4
+Perak,2019-01-01,female,25-29,7755,173.2
+Perak,2019-01-01,female,30-34,2816,176.4
+Perak,2019-01-01,female,35-39,1232,128.8
+Perak,2019-01-01,female,40-44,650,88.4
+Perak,2019-01-01,female,45-49,401,46.8
+Perak,2019-01-01,female,50-54,285,23.1
+Perak,2019-01-01,female,55-59,153,11.0
+Perak,2019-01-01,female,60-64,94,5.2
+Perak,2019-01-01,female,65+,55,0.8
+Perak,2019-01-01,male,all,17629,27.3
+Perak,2019-01-01,male,< 20,214,0.6
+Perak,2019-01-01,male,20-24,2803,30.6
+Perak,2019-01-01,male,25-29,7067,102.4
+Perak,2019-01-01,male,30-34,3694,114.0
+Perak,2019-01-01,male,35-39,1648,113.3
+Perak,2019-01-01,male,40-44,790,85.1
+Perak,2019-01-01,male,45-49,448,66.9
+Perak,2019-01-01,male,50-54,319,48.6
+Perak,2019-01-01,male,55-59,282,45.1
+Perak,2019-01-01,male,60-64,169,25.1
+Perak,2019-01-01,male,65+,195,8.1
+Perak,2020-01-01,female,all,17442,27.1
+Perak,2020-01-01,female,< 20,636,1.8
+Perak,2020-01-01,female,20-24,4587,59.2
+Perak,2020-01-01,female,25-29,7129,154.6
+Perak,2020-01-01,female,30-34,2516,152.3
+Perak,2020-01-01,female,35-39,1106,112.7
+Perak,2020-01-01,female,40-44,583,79.4
+Perak,2020-01-01,female,45-49,336,40.4
+Perak,2020-01-01,female,50-54,248,20.4
+Perak,2020-01-01,female,55-59,160,11.5
+Perak,2020-01-01,female,60-64,73,3.9
+Perak,2020-01-01,female,65+,68,0.9
+Perak,2020-01-01,male,all,16227,25.5
+Perak,2020-01-01,male,< 20,190,0.5
+Perak,2020-01-01,male,20-24,2878,31.9
+Perak,2020-01-01,male,25-29,6741,97.9
+Perak,2020-01-01,male,30-34,3149,93.5
+Perak,2020-01-01,male,35-39,1414,94.0
+Perak,2020-01-01,male,40-44,641,69.7
+Perak,2020-01-01,male,45-49,353,53.4
+Perak,2020-01-01,male,50-54,246,38.5
+Perak,2020-01-01,male,55-59,224,36.1
+Perak,2020-01-01,male,60-64,185,27.0
+Perak,2020-01-01,male,65+,206,8.2
+Perak,2021-01-01,female,all,19035,28.0
+Perak,2021-01-01,female,< 20,618,1.6
+Perak,2021-01-01,female,20-24,5117,62.6
+Perak,2021-01-01,female,25-29,8115,166.7
+Perak,2021-01-01,female,30-34,2590,148.5
+Perak,2021-01-01,female,35-39,1207,116.6
+Perak,2021-01-01,female,40-44,536,69.1
+Perak,2021-01-01,female,45-49,320,36.5
+Perak,2021-01-01,female,50-54,220,17.1
+Perak,2021-01-01,female,55-59,163,11.1
+Perak,2021-01-01,female,60-64,94,4.8
+Perak,2021-01-01,female,65+,55,0.7
+Perak,2021-01-01,male,all,17537,24.4
+Perak,2021-01-01,male,< 20,173,0.4
+Perak,2021-01-01,male,20-24,3253,32.0
+Perak,2021-01-01,male,25-29,7587,97.9
+Perak,2021-01-01,male,30-34,3260,86.0
+Perak,2021-01-01,male,35-39,1432,84.5
+Perak,2021-01-01,male,40-44,666,64.3
+Perak,2021-01-01,male,45-49,371,49.8
+Perak,2021-01-01,male,50-54,248,34.4
+Perak,2021-01-01,male,55-59,183,26.2
+Perak,2021-01-01,male,60-64,140,18.2
+Perak,2021-01-01,male,65+,224,7.9
+Perak,2022-01-01,female,all,18059,26.6
+Perak,2022-01-01,female,< 20,466,1.2
+Perak,2022-01-01,female,20-24,4138,50.7
+Perak,2022-01-01,female,25-29,7364,151.6
+Perak,2022-01-01,female,30-34,2965,170.4
+Perak,2022-01-01,female,35-39,1320,127.7
+Perak,2022-01-01,female,40-44,712,92.0
+Perak,2022-01-01,female,45-49,437,49.9
+Perak,2022-01-01,female,50-54,282,22.0
+Perak,2022-01-01,female,55-59,192,13.1
+Perak,2022-01-01,female,60-64,121,6.2
+Perak,2022-01-01,female,65+,62,0.8
+Perak,2022-01-01,male,all,16407,23.0
+Perak,2022-01-01,male,< 20,136,0.3
+Perak,2022-01-01,male,20-24,2650,26.3
+Perak,2022-01-01,male,25-29,6489,84.3
+Perak,2022-01-01,male,30-34,3393,90.1
+Perak,2022-01-01,male,35-39,1587,94.4
+Perak,2022-01-01,male,40-44,741,72.0
+Perak,2022-01-01,male,45-49,455,61.5
+Perak,2022-01-01,male,50-54,285,39.8
+Perak,2022-01-01,male,55-59,243,35.0
+Perak,2022-01-01,male,60-64,178,23.3
+Perak,2022-01-01,male,65+,250,8.9
+Perlis,2017-01-01,female,all,2132,31.01
+Perlis,2017-01-01,female,< 20,137,3.42
+Perlis,2017-01-01,female,20-24,686,66.4
+Perlis,2017-01-01,female,25-29,825,216.08
+Perlis,2017-01-01,female,30-34,223,158.83
+Perlis,2017-01-01,female,35-39,100,129.37
+Perlis,2017-01-01,female,40-44,54,64.44
+Perlis,2017-01-01,female,45-49,28,32.86
+Perlis,2017-01-01,female,50-54,26,22.26
+Perlis,2017-01-01,female,55-59,26,19.23
+Perlis,2017-01-01,female,60-64,17,9.73
+Perlis,2017-01-01,female,65+,10,1.56
+Perlis,2017-01-01,male,all,1848,27.05
+Perlis,2017-01-01,male,< 20,30,0.71
+Perlis,2017-01-01,male,20-24,378,32.67
+Perlis,2017-01-01,male,25-29,823,116.05
+Perlis,2017-01-01,male,30-34,303,124.03
+Perlis,2017-01-01,male,35-39,117,104.84
+Perlis,2017-01-01,male,40-44,53,92.01
+Perlis,2017-01-01,male,45-49,37,82.96
+Perlis,2017-01-01,male,50-54,28,57.85
+Perlis,2017-01-01,male,55-59,17,43.26
+Perlis,2017-01-01,male,60-64,24,55.05
+Perlis,2017-01-01,male,65+,38,21.52
+Perlis,2018-01-01,female,all,2119,30.9
+Perlis,2018-01-01,female,< 20,130,3.2
+Perlis,2018-01-01,female,20-24,691,74.4
+Perlis,2018-01-01,female,25-29,783,184.9
+Perlis,2018-01-01,female,30-34,255,178.4
+Perlis,2018-01-01,female,35-39,102,128.0
+Perlis,2018-01-01,female,40-44,56,66.2
+Perlis,2018-01-01,female,45-49,35,42.8
+Perlis,2018-01-01,female,50-54,32,27.3
+Perlis,2018-01-01,female,55-59,16,11.8
+Perlis,2018-01-01,female,60-64,12,6.7
+Perlis,2018-01-01,female,65+,7,1.1
+Perlis,2018-01-01,male,all,1837,27.1
+Perlis,2018-01-01,male,< 20,31,0.7
+Perlis,2018-01-01,male,20-24,382,36.3
+Perlis,2018-01-01,male,25-29,793,106.6
+Perlis,2018-01-01,male,30-34,318,120.5
+Perlis,2018-01-01,male,35-39,118,99.3
+Perlis,2018-01-01,male,40-44,43,74.8
+Perlis,2018-01-01,male,45-49,38,89.2
+Perlis,2018-01-01,male,50-54,37,77.9
+Perlis,2018-01-01,male,55-59,26,65.5
+Perlis,2018-01-01,male,60-64,15,34.1
+Perlis,2018-01-01,male,65+,36,19.7
+Perlis,2019-01-01,female,all,2132,31.3
+Perlis,2019-01-01,female,< 20,114,2.8
+Perlis,2019-01-01,female,20-24,637,76.6
+Perlis,2019-01-01,female,25-29,794,176.3
+Perlis,2019-01-01,female,30-34,257,176.1
+Perlis,2019-01-01,female,35-39,126,153.7
+Perlis,2019-01-01,female,40-44,61,72.2
+Perlis,2019-01-01,female,45-49,51,65.7
+Perlis,2019-01-01,female,50-54,37,32.0
+Perlis,2019-01-01,female,55-59,23,16.9
+Perlis,2019-01-01,female,60-64,19,10.4
+Perlis,2019-01-01,female,65+,13,1.9
+Perlis,2019-01-01,male,all,1829,27.4
+Perlis,2019-01-01,male,< 20,37,0.9
+Perlis,2019-01-01,male,20-24,367,38.6
+Perlis,2019-01-01,male,25-29,766,101.8
+Perlis,2019-01-01,male,30-34,310,109.2
+Perlis,2019-01-01,male,35-39,114,90.0
+Perlis,2019-01-01,male,40-44,58,99.3
+Perlis,2019-01-01,male,45-49,47,115.5
+Perlis,2019-01-01,male,50-54,25,53.6
+Perlis,2019-01-01,male,55-59,31,77.7
+Perlis,2019-01-01,male,60-64,23,51.5
+Perlis,2019-01-01,male,65+,51,27.3
+Perlis,2020-01-01,female,all,2180,32.1
+Perlis,2020-01-01,female,< 20,133,3.3
+Perlis,2020-01-01,female,20-24,676,88.7
+Perlis,2020-01-01,female,25-29,775,171.1
+Perlis,2020-01-01,female,30-34,241,157.9
+Perlis,2020-01-01,female,35-39,123,142.0
+Perlis,2020-01-01,female,40-44,86,102.4
+Perlis,2020-01-01,female,45-49,44,58.0
+Perlis,2020-01-01,female,50-54,43,38.3
+Perlis,2020-01-01,female,55-59,30,21.9
+Perlis,2020-01-01,female,60-64,15,8.0
+Perlis,2020-01-01,female,65+,14,2.0
+Perlis,2020-01-01,male,all,1975,29.9
+Perlis,2020-01-01,male,< 20,35,0.8
+Perlis,2020-01-01,male,20-24,433,49.5
+Perlis,2020-01-01,male,25-29,810,110.0
+Perlis,2020-01-01,male,30-34,307,100.1
+Perlis,2020-01-01,male,35-39,134,99.1
+Perlis,2020-01-01,male,40-44,68,112.8
+Perlis,2020-01-01,male,45-49,40,103.1
+Perlis,2020-01-01,male,50-54,44,97.8
+Perlis,2020-01-01,male,55-59,28,70.0
+Perlis,2020-01-01,male,60-64,28,61.8
+Perlis,2020-01-01,male,65+,48,24.7
+Perlis,2021-01-01,female,all,2480,30.5
+Perlis,2021-01-01,female,< 20,135,2.8
+Perlis,2021-01-01,female,20-24,739,80.9
+Perlis,2021-01-01,female,25-29,915,168.5
+Perlis,2021-01-01,female,30-34,331,181.0
+Perlis,2021-01-01,female,35-39,129,124.3
+Perlis,2021-01-01,female,40-44,83,82.4
+Perlis,2021-01-01,female,45-49,56,61.5
+Perlis,2021-01-01,female,50-54,34,25.3
+Perlis,2021-01-01,female,55-59,25,15.2
+Perlis,2021-01-01,female,60-64,18,8.0
+Perlis,2021-01-01,female,65+,15,1.7
+Perlis,2021-01-01,male,all,2105,25.3
+Perlis,2021-01-01,male,< 20,40,0.8
+Perlis,2021-01-01,male,20-24,464,42.1
+Perlis,2021-01-01,male,25-29,842,90.7
+Perlis,2021-01-01,male,30-34,368,95.3
+Perlis,2021-01-01,male,35-39,133,78.1
+Perlis,2021-01-01,male,40-44,71,93.4
+Perlis,2021-01-01,male,45-49,36,73.6
+Perlis,2021-01-01,male,50-54,32,56.4
+Perlis,2021-01-01,male,55-59,37,73.4
+Perlis,2021-01-01,male,60-64,32,56.0
+Perlis,2021-01-01,male,65+,50,20.4
+Perlis,2022-01-01,female,all,2398,29.6
+Perlis,2022-01-01,female,< 20,110,2.3
+Perlis,2022-01-01,female,20-24,623,68.5
+Perlis,2022-01-01,female,25-29,840,155.4
+Perlis,2022-01-01,female,30-34,313,171.9
+Perlis,2022-01-01,female,35-39,195,188.8
+Perlis,2022-01-01,female,40-44,88,87.8
+Perlis,2022-01-01,female,45-49,88,97.1
+Perlis,2022-01-01,female,50-54,63,47.0
+Perlis,2022-01-01,female,55-59,49,29.9
+Perlis,2022-01-01,female,60-64,12,5.4
+Perlis,2022-01-01,female,65+,17,2.0
+Perlis,2022-01-01,male,all,1965,23.6
+Perlis,2022-01-01,male,< 20,33,0.6
+Perlis,2022-01-01,male,20-24,356,32.3
+Perlis,2022-01-01,male,25-29,728,78.5
+Perlis,2022-01-01,male,30-34,355,91.9
+Perlis,2022-01-01,male,35-39,151,88.7
+Perlis,2022-01-01,male,40-44,96,126.5
+Perlis,2022-01-01,male,45-49,69,141.1
+Perlis,2022-01-01,male,50-54,56,98.8
+Perlis,2022-01-01,male,55-59,37,73.4
+Perlis,2022-01-01,male,60-64,38,66.7
+Perlis,2022-01-01,male,65+,46,18.8
+Pulau Pinang,2017-01-01,female,all,9488,20.89
+Pulau Pinang,2017-01-01,female,< 20,299,1.3
+Pulau Pinang,2017-01-01,female,20-24,2442,36.7
+Pulau Pinang,2017-01-01,female,25-29,3877,98.37
+Pulau Pinang,2017-01-01,female,30-34,1604,84.86
+Pulau Pinang,2017-01-01,female,35-39,665,60.65
+Pulau Pinang,2017-01-01,female,40-44,280,34.09
+Pulau Pinang,2017-01-01,female,45-49,154,17.99
+Pulau Pinang,2017-01-01,female,50-54,96,10.15
+Pulau Pinang,2017-01-01,female,55-59,41,3.93
+Pulau Pinang,2017-01-01,female,60-64,17,1.38
+Pulau Pinang,2017-01-01,female,65+,13,0.34
+Pulau Pinang,2017-01-01,male,all,9104,20.15
+Pulau Pinang,2017-01-01,male,< 20,74,0.3
+Pulau Pinang,2017-01-01,male,20-24,1398,18.94
+Pulau Pinang,2017-01-01,male,25-29,3637,71.07
+Pulau Pinang,2017-01-01,male,30-34,2086,77.89
+Pulau Pinang,2017-01-01,male,35-39,929,66.79
+Pulau Pinang,2017-01-01,male,40-44,421,47.77
+Pulau Pinang,2017-01-01,male,45-49,208,30.74
+Pulau Pinang,2017-01-01,male,50-54,157,27.91
+Pulau Pinang,2017-01-01,male,55-59,98,20.02
+Pulau Pinang,2017-01-01,male,60-64,49,11.12
+Pulau Pinang,2017-01-01,male,65+,47,3.68
+Pulau Pinang,2018-01-01,female,all,9758,21.4
+Pulau Pinang,2018-01-01,female,< 20,251,1.1
+Pulau Pinang,2018-01-01,female,20-24,2403,36.3
+Pulau Pinang,2018-01-01,female,25-29,3895,97.2
+Pulau Pinang,2018-01-01,female,30-34,1843,96.6
+Pulau Pinang,2018-01-01,female,35-39,711,62.0
+Pulau Pinang,2018-01-01,female,40-44,282,34.4
+Pulau Pinang,2018-01-01,female,45-49,187,21.7
+Pulau Pinang,2018-01-01,female,50-54,92,9.5
+Pulau Pinang,2018-01-01,female,55-59,66,6.3
+Pulau Pinang,2018-01-01,female,60-64,19,1.5
+Pulau Pinang,2018-01-01,female,65+,9,0.2
+Pulau Pinang,2018-01-01,male,all,9394,20.7
+Pulau Pinang,2018-01-01,male,< 20,66,0.3
+Pulau Pinang,2018-01-01,male,20-24,1399,18.9
+Pulau Pinang,2018-01-01,male,25-29,3570,67.9
+Pulau Pinang,2018-01-01,male,30-34,2329,88.2
+Pulau Pinang,2018-01-01,male,35-39,977,67.3
+Pulau Pinang,2018-01-01,male,40-44,423,48.0
+Pulau Pinang,2018-01-01,male,45-49,236,34.3
+Pulau Pinang,2018-01-01,male,50-54,138,24.2
+Pulau Pinang,2018-01-01,male,55-59,118,23.8
+Pulau Pinang,2018-01-01,male,60-64,61,13.4
+Pulau Pinang,2018-01-01,male,65+,77,5.8
+Pulau Pinang,2019-01-01,female,all,9637,21.2
+Pulau Pinang,2019-01-01,female,< 20,282,1.3
+Pulau Pinang,2019-01-01,female,20-24,2327,35.8
+Pulau Pinang,2019-01-01,female,25-29,3837,95.8
+Pulau Pinang,2019-01-01,female,30-34,1753,92.1
+Pulau Pinang,2019-01-01,female,35-39,704,59.2
+Pulau Pinang,2019-01-01,female,40-44,339,41.5
+Pulau Pinang,2019-01-01,female,45-49,189,21.9
+Pulau Pinang,2019-01-01,female,50-54,110,11.1
+Pulau Pinang,2019-01-01,female,55-59,58,5.4
+Pulau Pinang,2019-01-01,female,60-64,26,2.0
+Pulau Pinang,2019-01-01,female,65+,12,0.3
+Pulau Pinang,2019-01-01,male,all,9411,20.9
+Pulau Pinang,2019-01-01,male,< 20,85,0.4
+Pulau Pinang,2019-01-01,male,20-24,1339,18.4
+Pulau Pinang,2019-01-01,male,25-29,3652,68.7
+Pulau Pinang,2019-01-01,male,30-34,2248,87.1
+Pulau Pinang,2019-01-01,male,35-39,970,64.8
+Pulau Pinang,2019-01-01,male,40-44,433,48.9
+Pulau Pinang,2019-01-01,male,45-49,284,40.9
+Pulau Pinang,2019-01-01,male,50-54,149,25.7
+Pulau Pinang,2019-01-01,male,55-59,133,26.5
+Pulau Pinang,2019-01-01,male,60-64,48,10.2
+Pulau Pinang,2019-01-01,male,65+,70,5.0
+Pulau Pinang,2020-01-01,female,all,8740,19.4
+Pulau Pinang,2020-01-01,female,< 20,214,1.0
+Pulau Pinang,2020-01-01,female,20-24,2247,35.5
+Pulau Pinang,2020-01-01,female,25-29,3616,91.4
+Pulau Pinang,2020-01-01,female,30-34,1438,75.6
+Pulau Pinang,2020-01-01,female,35-39,672,55.1
+Pulau Pinang,2020-01-01,female,40-44,262,31.8
+Pulau Pinang,2020-01-01,female,45-49,132,15.3
+Pulau Pinang,2020-01-01,female,50-54,63,6.3
+Pulau Pinang,2020-01-01,female,55-59,59,5.4
+Pulau Pinang,2020-01-01,female,60-64,21,1.6
+Pulau Pinang,2020-01-01,female,65+,16,0.4
+Pulau Pinang,2020-01-01,male,all,8830,19.8
+Pulau Pinang,2020-01-01,male,< 20,58,0.2
+Pulau Pinang,2020-01-01,male,20-24,1382,19.6
+Pulau Pinang,2020-01-01,male,25-29,3713,69.9
+Pulau Pinang,2020-01-01,male,30-34,1970,78.3
+Pulau Pinang,2020-01-01,male,35-39,845,56.0
+Pulau Pinang,2020-01-01,male,40-44,367,41.0
+Pulau Pinang,2020-01-01,male,45-49,214,30.8
+Pulau Pinang,2020-01-01,male,50-54,112,19.0
+Pulau Pinang,2020-01-01,male,55-59,76,15.0
+Pulau Pinang,2020-01-01,male,60-64,56,11.6
+Pulau Pinang,2020-01-01,male,65+,37,2.5
+Pulau Pinang,2021-01-01,female,all,9432,21.4
+Pulau Pinang,2021-01-01,female,< 20,216,1.0
+Pulau Pinang,2021-01-01,female,20-24,2616,42.2
+Pulau Pinang,2021-01-01,female,25-29,3911,101.1
+Pulau Pinang,2021-01-01,female,30-34,1480,79.6
+Pulau Pinang,2021-01-01,female,35-39,601,50.3
+Pulau Pinang,2021-01-01,female,40-44,280,34.8
+Pulau Pinang,2021-01-01,female,45-49,154,18.2
+Pulau Pinang,2021-01-01,female,50-54,82,8.4
+Pulau Pinang,2021-01-01,female,55-59,46,4.3
+Pulau Pinang,2021-01-01,female,60-64,27,2.1
+Pulau Pinang,2021-01-01,female,65+,19,0.4
+Pulau Pinang,2021-01-01,male,all,9383,19.9
+Pulau Pinang,2021-01-01,male,< 20,61,0.2
+Pulau Pinang,2021-01-01,male,20-24,1647,22.1
+Pulau Pinang,2021-01-01,male,25-29,4048,72.2
+Pulau Pinang,2021-01-01,male,30-34,1962,73.9
+Pulau Pinang,2021-01-01,male,35-39,807,50.6
+Pulau Pinang,2021-01-01,male,40-44,361,38.2
+Pulau Pinang,2021-01-01,male,45-49,211,28.7
+Pulau Pinang,2021-01-01,male,50-54,107,17.2
+Pulau Pinang,2021-01-01,male,55-59,74,13.8
+Pulau Pinang,2021-01-01,male,60-64,44,8.7
+Pulau Pinang,2021-01-01,male,65+,61,4.0
+Pulau Pinang,2022-01-01,female,all,10002,22.7
+Pulau Pinang,2022-01-01,female,< 20,215,1.0
+Pulau Pinang,2022-01-01,female,20-24,2358,38.4
+Pulau Pinang,2022-01-01,female,25-29,3979,103.8
+Pulau Pinang,2022-01-01,female,30-34,1872,101.5
+Pulau Pinang,2022-01-01,female,35-39,756,63.9
+Pulau Pinang,2022-01-01,female,40-44,366,45.9
+Pulau Pinang,2022-01-01,female,45-49,204,24.3
+Pulau Pinang,2022-01-01,female,50-54,106,10.9
+Pulau Pinang,2022-01-01,female,55-59,82,7.7
+Pulau Pinang,2022-01-01,female,60-64,40,3.1
+Pulau Pinang,2022-01-01,female,65+,24,0.6
+Pulau Pinang,2022-01-01,male,all,10067,21.6
+Pulau Pinang,2022-01-01,male,< 20,56,0.2
+Pulau Pinang,2022-01-01,male,20-24,1515,20.5
+Pulau Pinang,2022-01-01,male,25-29,3952,71.2
+Pulau Pinang,2022-01-01,male,30-34,2260,86.0
+Pulau Pinang,2022-01-01,male,35-39,1057,67.0
+Pulau Pinang,2022-01-01,male,40-44,509,54.4
+Pulau Pinang,2022-01-01,male,45-49,281,38.6
+Pulau Pinang,2022-01-01,male,50-54,151,24.5
+Pulau Pinang,2022-01-01,male,55-59,130,24.5
+Pulau Pinang,2022-01-01,male,60-64,57,11.3
+Pulau Pinang,2022-01-01,male,65+,99,6.5
+Sabah,2017-01-01,female,all,14470,14.51
+Sabah,2017-01-01,female,< 20,1033,1.61
+Sabah,2017-01-01,female,20-24,4322,33.91
+Sabah,2017-01-01,female,25-29,5226,65.76
+Sabah,2017-01-01,female,30-34,2235,66.76
+Sabah,2017-01-01,female,35-39,886,47.07
+Sabah,2017-01-01,female,40-44,366,27.1
+Sabah,2017-01-01,female,45-49,210,18.29
+Sabah,2017-01-01,female,50-54,111,8.77
+Sabah,2017-01-01,female,55-59,55,4.24
+Sabah,2017-01-01,female,60-64,18,1.38
+Sabah,2017-01-01,female,65+,8,0.25
+Sabah,2017-01-01,male,all,13843,12.43
+Sabah,2017-01-01,male,< 20,302,0.43
+Sabah,2017-01-01,male,20-24,2696,16.21
+Sabah,2017-01-01,male,25-29,5237,44.08
+Sabah,2017-01-01,male,30-34,2990,57.17
+Sabah,2017-01-01,male,35-39,1258,48.54
+Sabah,2017-01-01,male,40-44,548,40.91
+Sabah,2017-01-01,male,45-49,295,35.41
+Sabah,2017-01-01,male,50-54,226,34.68
+Sabah,2017-01-01,male,55-59,151,26.74
+Sabah,2017-01-01,male,60-64,78,14.32
+Sabah,2017-01-01,male,65+,62,4.55
+Sabah,2018-01-01,female,all,16340,16.4
+Sabah,2018-01-01,female,< 20,1159,1.8
+Sabah,2018-01-01,female,20-24,4645,36.7
+Sabah,2018-01-01,female,25-29,6145,76.1
+Sabah,2018-01-01,female,30-34,2447,72.5
+Sabah,2018-01-01,female,35-39,999,50.2
+Sabah,2018-01-01,female,40-44,437,31.9
+Sabah,2018-01-01,female,45-49,267,22.9
+Sabah,2018-01-01,female,50-54,155,12.0
+Sabah,2018-01-01,female,55-59,45,3.3
+Sabah,2018-01-01,female,60-64,24,1.7
+Sabah,2018-01-01,female,65+,17,0.5
+Sabah,2018-01-01,male,all,15501,13.9
+Sabah,2018-01-01,male,< 20,325,0.5
+Sabah,2018-01-01,male,20-24,3006,18.1
+Sabah,2018-01-01,male,25-29,5916,48.6
+Sabah,2018-01-01,male,30-34,3345,64.1
+Sabah,2018-01-01,male,35-39,1396,51.1
+Sabah,2018-01-01,male,40-44,598,44.0
+Sabah,2018-01-01,male,45-49,364,43.2
+Sabah,2018-01-01,male,50-54,228,34.9
+Sabah,2018-01-01,male,55-59,154,26.5
+Sabah,2018-01-01,male,60-64,84,14.5
+Sabah,2018-01-01,male,65+,85,6.0
+Sabah,2019-01-01,female,all,16515,16.6
+Sabah,2019-01-01,female,< 20,1011,1.6
+Sabah,2019-01-01,female,20-24,4448,35.8
+Sabah,2019-01-01,female,25-29,6333,78.5
+Sabah,2019-01-01,female,30-34,2645,78.2
+Sabah,2019-01-01,female,35-39,1089,52.8
+Sabah,2019-01-01,female,40-44,441,31.6
+Sabah,2019-01-01,female,45-49,264,22.4
+Sabah,2019-01-01,female,50-54,165,12.6
+Sabah,2019-01-01,female,55-59,67,4.8
+Sabah,2019-01-01,female,60-64,39,2.6
+Sabah,2019-01-01,female,65+,13,0.4
+Sabah,2019-01-01,male,all,15447,13.9
+Sabah,2019-01-01,male,< 20,296,0.4
+Sabah,2019-01-01,male,20-24,2757,16.9
+Sabah,2019-01-01,male,25-29,5881,48.2
+Sabah,2019-01-01,male,30-34,3499,67.6
+Sabah,2019-01-01,male,35-39,1433,51.2
+Sabah,2019-01-01,male,40-44,653,47.6
+Sabah,2019-01-01,male,45-49,344,40.9
+Sabah,2019-01-01,male,50-54,221,34.2
+Sabah,2019-01-01,male,55-59,179,30.6
+Sabah,2019-01-01,male,60-64,95,15.7
+Sabah,2019-01-01,male,65+,89,6.1
+Sabah,2020-01-01,female,all,12459,12.7
+Sabah,2020-01-01,female,< 20,764,1.2
+Sabah,2020-01-01,female,20-24,3410,28.2
+Sabah,2020-01-01,female,25-29,4680,59.1
+Sabah,2020-01-01,female,30-34,1982,58.6
+Sabah,2020-01-01,female,35-39,862,41.1
+Sabah,2020-01-01,female,40-44,373,26.1
+Sabah,2020-01-01,female,45-49,195,16.4
+Sabah,2020-01-01,female,50-54,112,8.5
+Sabah,2020-01-01,female,55-59,50,3.5
+Sabah,2020-01-01,female,60-64,22,1.4
+Sabah,2020-01-01,female,65+,9,0.2
+Sabah,2020-01-01,male,all,11849,10.8
+Sabah,2020-01-01,male,< 20,212,0.3
+Sabah,2020-01-01,male,20-24,2163,13.5
+Sabah,2020-01-01,male,25-29,4566,37.9
+Sabah,2020-01-01,male,30-34,2653,51.7
+Sabah,2020-01-01,male,35-39,1065,37.8
+Sabah,2020-01-01,male,40-44,515,36.9
+Sabah,2020-01-01,male,45-49,259,30.9
+Sabah,2020-01-01,male,50-54,187,29.2
+Sabah,2020-01-01,male,55-59,113,19.2
+Sabah,2020-01-01,male,60-64,60,9.5
+Sabah,2020-01-01,male,65+,56,3.7
+Sabah,2021-01-01,female,all,16830,18.2
+Sabah,2021-01-01,female,< 20,730,1.2
+Sabah,2021-01-01,female,20-24,4300,37.7
+Sabah,2021-01-01,female,25-29,6900,92.2
+Sabah,2021-01-01,female,30-34,2875,90.0
+Sabah,2021-01-01,female,35-39,1151,58.1
+Sabah,2021-01-01,female,40-44,471,34.9
+Sabah,2021-01-01,female,45-49,215,19.2
+Sabah,2021-01-01,female,50-54,121,9.7
+Sabah,2021-01-01,female,55-59,46,3.4
+Sabah,2021-01-01,female,60-64,14,0.9
+Sabah,2021-01-01,female,65+,7,0.2
+Sabah,2021-01-01,male,all,15897,14.8
+Sabah,2021-01-01,male,< 20,189,0.3
+Sabah,2021-01-01,male,20-24,2539,16.2
+Sabah,2021-01-01,male,25-29,6523,55.3
+Sabah,2021-01-01,male,30-34,3739,74.4
+Sabah,2021-01-01,male,35-39,1516,55.0
+Sabah,2021-01-01,male,40-44,684,50.0
+Sabah,2021-01-01,male,45-49,298,36.3
+Sabah,2021-01-01,male,50-54,180,28.7
+Sabah,2021-01-01,male,55-59,122,21.1
+Sabah,2021-01-01,male,60-64,54,8.7
+Sabah,2021-01-01,male,65+,53,3.6
+Sabah,2022-01-01,female,all,17239,18.8
+Sabah,2022-01-01,female,< 20,701,1.2
+Sabah,2022-01-01,female,20-24,3977,35.2
+Sabah,2022-01-01,female,25-29,6698,90.3
+Sabah,2022-01-01,female,30-34,3144,99.3
+Sabah,2022-01-01,female,35-39,1402,71.3
+Sabah,2022-01-01,female,40-44,643,48.1
+Sabah,2022-01-01,female,45-49,351,31.7
+Sabah,2022-01-01,female,50-54,179,14.5
+Sabah,2022-01-01,female,55-59,77,5.8
+Sabah,2022-01-01,female,60-64,40,2.7
+Sabah,2022-01-01,female,65+,27,0.8
+Sabah,2022-01-01,male,all,15855,15.0
+Sabah,2022-01-01,male,< 20,186,0.3
+Sabah,2022-01-01,male,20-24,2378,15.4
+Sabah,2022-01-01,male,25-29,5805,49.7
+Sabah,2022-01-01,male,30-34,3861,77.6
+Sabah,2022-01-01,male,35-39,1748,64.1
+Sabah,2022-01-01,male,40-44,890,65.8
+Sabah,2022-01-01,male,45-49,393,48.4
+Sabah,2022-01-01,male,50-54,241,38.8
+Sabah,2022-01-01,male,55-59,155,27.1
+Sabah,2022-01-01,male,60-64,88,14.3
+Sabah,2022-01-01,male,65+,110,7.5
+Sarawak,2017-01-01,female,all,15024,22.12
+Sarawak,2017-01-01,female,< 20,1835,4.19
+Sarawak,2017-01-01,female,20-24,4968,74.57
+Sarawak,2017-01-01,female,25-29,4942,115.79
+Sarawak,2017-01-01,female,30-34,1856,97.2
+Sarawak,2017-01-01,female,35-39,761,67.28
+Sarawak,2017-01-01,female,40-44,346,35.11
+Sarawak,2017-01-01,female,45-49,183,19.44
+Sarawak,2017-01-01,female,50-54,82,7.4
+Sarawak,2017-01-01,female,55-59,31,2.66
+Sarawak,2017-01-01,female,60-64,18,1.27
+Sarawak,2017-01-01,female,65+,2,0.04
+Sarawak,2017-01-01,male,all,15195,20.99
+Sarawak,2017-01-01,male,< 20,638,1.39
+Sarawak,2017-01-01,male,20-24,3745,37.38
+Sarawak,2017-01-01,male,25-29,5456,79.1
+Sarawak,2017-01-01,male,30-34,2869,95.31
+Sarawak,2017-01-01,male,35-39,1217,75.34
+Sarawak,2017-01-01,male,40-44,566,62.04
+Sarawak,2017-01-01,male,45-49,312,48.85
+Sarawak,2017-01-01,male,50-54,189,35.2
+Sarawak,2017-01-01,male,55-59,99,21.27
+Sarawak,2017-01-01,male,60-64,88,16.78
+Sarawak,2017-01-01,male,65+,16,0.86
+Sarawak,2018-01-01,female,all,15248,22.5
+Sarawak,2018-01-01,female,< 20,1677,3.9
+Sarawak,2018-01-01,female,20-24,4969,74.7
+Sarawak,2018-01-01,female,25-29,5002,113.7
+Sarawak,2018-01-01,female,30-34,2037,104.0
+Sarawak,2018-01-01,female,35-39,792,67.3
+Sarawak,2018-01-01,female,40-44,393,40.4
+Sarawak,2018-01-01,female,45-49,215,22.5
+Sarawak,2018-01-01,female,50-54,93,8.2
+Sarawak,2018-01-01,female,55-59,41,3.4
+Sarawak,2018-01-01,female,60-64,25,1.7
+Sarawak,2018-01-01,female,65+,4,0.1
+Sarawak,2018-01-01,male,all,15530,21.5
+Sarawak,2018-01-01,male,< 20,632,1.4
+Sarawak,2018-01-01,male,20-24,3634,36.4
+Sarawak,2018-01-01,male,25-29,5737,80.2
+Sarawak,2018-01-01,male,30-34,2945,95.9
+Sarawak,2018-01-01,male,35-39,1191,71.8
+Sarawak,2018-01-01,male,40-44,610,67.7
+Sarawak,2018-01-01,male,45-49,350,54.7
+Sarawak,2018-01-01,male,50-54,207,38.3
+Sarawak,2018-01-01,male,55-59,114,23.7
+Sarawak,2018-01-01,male,60-64,83,15.2
+Sarawak,2018-01-01,male,65+,27,1.4
+Sarawak,2019-01-01,female,all,14577,21.6
+Sarawak,2019-01-01,female,< 20,1657,3.9
+Sarawak,2019-01-01,female,20-24,4640,70.6
+Sarawak,2019-01-01,female,25-29,4788,107.5
+Sarawak,2019-01-01,female,30-34,1951,96.8
+Sarawak,2019-01-01,female,35-39,784,64.6
+Sarawak,2019-01-01,female,40-44,361,37.6
+Sarawak,2019-01-01,female,45-49,200,20.7
+Sarawak,2019-01-01,female,50-54,114,9.8
+Sarawak,2019-01-01,female,55-59,60,4.8
+Sarawak,2019-01-01,female,60-64,17,1.1
+Sarawak,2019-01-01,female,65+,5,0.1
+Sarawak,2019-01-01,male,all,14858,20.7
+Sarawak,2019-01-01,male,< 20,677,1.5
+Sarawak,2019-01-01,male,20-24,3443,35.2
+Sarawak,2019-01-01,male,25-29,5288,72.4
+Sarawak,2019-01-01,male,30-34,2847,91.9
+Sarawak,2019-01-01,male,35-39,1267,74.3
+Sarawak,2019-01-01,male,40-44,549,62.1
+Sarawak,2019-01-01,male,45-49,364,57.3
+Sarawak,2019-01-01,male,50-54,194,35.7
+Sarawak,2019-01-01,male,55-59,110,22.3
+Sarawak,2019-01-01,male,60-64,95,17.0
+Sarawak,2019-01-01,male,65+,24,1.2
+Sarawak,2020-01-01,female,all,12886,19.2
+Sarawak,2020-01-01,female,< 20,1569,3.8
+Sarawak,2020-01-01,female,20-24,4211,64.5
+Sarawak,2020-01-01,female,25-29,4054,90.2
+Sarawak,2020-01-01,female,30-34,1714,83.4
+Sarawak,2020-01-01,female,35-39,685,55.1
+Sarawak,2020-01-01,female,40-44,307,31.9
+Sarawak,2020-01-01,female,45-49,193,20.0
+Sarawak,2020-01-01,female,50-54,88,7.4
+Sarawak,2020-01-01,female,55-59,39,3.1
+Sarawak,2020-01-01,female,60-64,18,1.2
+Sarawak,2020-01-01,female,65+,8,0.2
+Sarawak,2020-01-01,male,all,13123,18.5
+Sarawak,2020-01-01,male,< 20,608,1.4
+Sarawak,2020-01-01,male,20-24,3190,33.2
+Sarawak,2020-01-01,male,25-29,4796,65.3
+Sarawak,2020-01-01,male,30-34,2360,75.6
+Sarawak,2020-01-01,male,35-39,1052,60.8
+Sarawak,2020-01-01,male,40-44,514,58.2
+Sarawak,2020-01-01,male,45-49,258,41.3
+Sarawak,2020-01-01,male,50-54,149,27.2
+Sarawak,2020-01-01,male,55-59,102,20.2
+Sarawak,2020-01-01,male,60-64,75,13.1
+Sarawak,2020-01-01,male,65+,19,0.9
+Sarawak,2021-01-01,female,all,14794,22.9
+Sarawak,2021-01-01,female,< 20,1452,3.6
+Sarawak,2021-01-01,female,20-24,4426,70.3
+Sarawak,2021-01-01,female,25-29,4974,114.9
+Sarawak,2021-01-01,female,30-34,2183,110.3
+Sarawak,2021-01-01,female,35-39,818,68.3
+Sarawak,2021-01-01,female,40-44,411,44.4
+Sarawak,2021-01-01,female,45-49,247,26.6
+Sarawak,2021-01-01,female,50-54,123,10.8
+Sarawak,2021-01-01,female,55-59,67,5.5
+Sarawak,2021-01-01,female,60-64,51,3.4
+Sarawak,2021-01-01,female,65+,42,0.8
+Sarawak,2021-01-01,male,all,15032,21.1
+Sarawak,2021-01-01,male,< 20,510,1.2
+Sarawak,2021-01-01,male,20-24,3265,33.9
+Sarawak,2021-01-01,male,25-29,5650,76.6
+Sarawak,2021-01-01,male,30-34,2992,95.5
+Sarawak,2021-01-01,male,35-39,1193,68.7
+Sarawak,2021-01-01,male,40-44,592,66.8
+Sarawak,2021-01-01,male,45-49,306,48.8
+Sarawak,2021-01-01,male,50-54,212,38.6
+Sarawak,2021-01-01,male,55-59,146,28.8
+Sarawak,2021-01-01,male,60-64,53,9.2
+Sarawak,2021-01-01,male,65+,113,5.2
+Sarawak,2022-01-01,female,all,16382,25.4
+Sarawak,2022-01-01,female,< 20,1165,2.9
+Sarawak,2022-01-01,female,20-24,4585,73.1
+Sarawak,2022-01-01,female,25-29,5875,136.3
+Sarawak,2022-01-01,female,30-34,2648,134.3
+Sarawak,2022-01-01,female,35-39,1068,89.5
+Sarawak,2022-01-01,female,40-44,511,55.4
+Sarawak,2022-01-01,female,45-49,273,29.5
+Sarawak,2022-01-01,female,50-54,146,12.8
+Sarawak,2022-01-01,female,55-59,67,5.5
+Sarawak,2022-01-01,female,60-64,32,2.2
+Sarawak,2022-01-01,female,65+,12,0.2
+Sarawak,2022-01-01,male,all,16707,23.6
+Sarawak,2022-01-01,male,< 20,376,0.9
+Sarawak,2022-01-01,male,20-24,3449,36.0
+Sarawak,2022-01-01,male,25-29,6179,84.3
+Sarawak,2022-01-01,male,30-34,3645,117.1
+Sarawak,2022-01-01,male,35-39,1458,84.5
+Sarawak,2022-01-01,male,40-44,709,80.5
+Sarawak,2022-01-01,male,45-49,379,60.8
+Sarawak,2022-01-01,male,50-54,213,39.0
+Sarawak,2022-01-01,male,55-59,139,27.6
+Sarawak,2022-01-01,male,60-64,70,12.3
+Sarawak,2022-01-01,male,65+,90,4.1
+Selangor,2017-01-01,female,all,34938,22.59
+Selangor,2017-01-01,female,< 20,1038,1.11
+Selangor,2017-01-01,female,20-24,8861,48.85
+Selangor,2017-01-01,female,25-29,14720,123.5
+Selangor,2017-01-01,female,30-34,5850,92.18
+Selangor,2017-01-01,female,35-39,2211,62.1
+Selangor,2017-01-01,female,40-44,1021,41.34
+Selangor,2017-01-01,female,45-49,585,25.76
+Selangor,2017-01-01,female,50-54,361,13.89
+Selangor,2017-01-01,female,55-59,164,6.08
+Selangor,2017-01-01,female,60-64,84,2.92
+Selangor,2017-01-01,female,65+,43,0.53
+Selangor,2017-01-01,male,all,38965,23.36
+Selangor,2017-01-01,male,< 20,286,0.29
+Selangor,2017-01-01,male,20-24,5826,26.28
+Selangor,2017-01-01,male,25-29,16749,85.95
+Selangor,2017-01-01,male,30-34,8614,86.22
+Selangor,2017-01-01,male,35-39,3519,73.69
+Selangor,2017-01-01,male,40-44,1679,69.68
+Selangor,2017-01-01,male,45-49,889,59.4
+Selangor,2017-01-01,male,50-54,615,50.57
+Selangor,2017-01-01,male,55-59,387,37.25
+Selangor,2017-01-01,male,60-64,201,20.04
+Selangor,2017-01-01,male,65+,200,6.99
+Selangor,2018-01-01,female,all,34760,22.3
+Selangor,2018-01-01,female,< 20,952,1.0
+Selangor,2018-01-01,female,20-24,8504,47.5
+Selangor,2018-01-01,female,25-29,14754,130.2
+Selangor,2018-01-01,female,30-34,5951,92.5
+Selangor,2018-01-01,female,35-39,2299,60.6
+Selangor,2018-01-01,female,40-44,1055,42.0
+Selangor,2018-01-01,female,45-49,587,25.0
+Selangor,2018-01-01,female,50-54,355,13.2
+Selangor,2018-01-01,female,55-59,177,6.3
+Selangor,2018-01-01,female,60-64,84,2.8
+Selangor,2018-01-01,female,65+,42,0.5
+Selangor,2018-01-01,male,all,38971,23.2
+Selangor,2018-01-01,male,< 20,259,0.3
+Selangor,2018-01-01,male,20-24,5728,25.8
+Selangor,2018-01-01,male,25-29,16543,88.0
+Selangor,2018-01-01,male,30-34,8828,88.3
+Selangor,2018-01-01,male,35-39,3534,71.1
+Selangor,2018-01-01,male,40-44,1727,70.2
+Selangor,2018-01-01,male,45-49,939,61.4
+Selangor,2018-01-01,male,50-54,600,48.6
+Selangor,2018-01-01,male,55-59,360,33.3
+Selangor,2018-01-01,male,60-64,206,19.5
+Selangor,2018-01-01,male,65+,247,8.1
+Selangor,2019-01-01,female,all,34430,22.1
+Selangor,2019-01-01,female,< 20,803,0.9
+Selangor,2019-01-01,female,20-24,7926,45.2
+Selangor,2019-01-01,female,25-29,14828,139.4
+Selangor,2019-01-01,female,30-34,5816,91.0
+Selangor,2019-01-01,female,35-39,2512,63.0
+Selangor,2019-01-01,female,40-44,1174,45.7
+Selangor,2019-01-01,female,45-49,664,27.6
+Selangor,2019-01-01,female,50-54,371,13.4
+Selangor,2019-01-01,female,55-59,201,6.9
+Selangor,2019-01-01,female,60-64,89,2.8
+Selangor,2019-01-01,female,65+,46,0.5
+Selangor,2019-01-01,male,all,38775,23.2
+Selangor,2019-01-01,male,< 20,233,0.2
+Selangor,2019-01-01,male,20-24,5312,24.3
+Selangor,2019-01-01,male,25-29,16772,94.6
+Selangor,2019-01-01,male,30-34,8512,86.6
+Selangor,2019-01-01,male,35-39,3720,72.8
+Selangor,2019-01-01,male,40-44,1725,68.4
+Selangor,2019-01-01,male,45-49,971,61.6
+Selangor,2019-01-01,male,50-54,612,48.7
+Selangor,2019-01-01,male,55-59,429,38.5
+Selangor,2019-01-01,male,60-64,250,22.6
+Selangor,2019-01-01,male,65+,239,7.5
+Selangor,2020-01-01,female,all,29780,19.1
+Selangor,2020-01-01,female,< 20,539,0.6
+Selangor,2020-01-01,female,20-24,7017,40.7
+Selangor,2020-01-01,female,25-29,13505,134.8
+Selangor,2020-01-01,female,30-34,4712,75.3
+Selangor,2020-01-01,female,35-39,1980,48.0
+Selangor,2020-01-01,female,40-44,935,35.2
+Selangor,2020-01-01,female,45-49,489,19.9
+Selangor,2020-01-01,female,50-54,311,11.0
+Selangor,2020-01-01,female,55-59,177,5.8
+Selangor,2020-01-01,female,60-64,70,2.1
+Selangor,2020-01-01,female,65+,45,0.5
+Selangor,2020-01-01,male,all,33808,20.4
+Selangor,2020-01-01,male,< 20,182,0.2
+Selangor,2020-01-01,male,20-24,4765,22.1
+Selangor,2020-01-01,male,25-29,15390,92.0
+Selangor,2020-01-01,male,30-34,7276,76.3
+Selangor,2020-01-01,male,35-39,3008,58.1
+Selangor,2020-01-01,male,40-44,1317,50.7
+Selangor,2020-01-01,male,45-49,753,46.8
+Selangor,2020-01-01,male,50-54,410,32.1
+Selangor,2020-01-01,male,55-59,333,29.1
+Selangor,2020-01-01,male,60-64,172,14.8
+Selangor,2020-01-01,male,65+,202,5.9
+Selangor,2021-01-01,female,all,38856,23.3
+Selangor,2021-01-01,female,< 20,630,0.6
+Selangor,2021-01-01,female,20-24,9215,49.9
+Selangor,2021-01-01,female,25-29,18193,169.5
+Selangor,2021-01-01,female,30-34,6228,92.9
+Selangor,2021-01-01,female,35-39,2416,54.6
+Selangor,2021-01-01,female,40-44,1023,35.9
+Selangor,2021-01-01,female,45-49,582,22.1
+Selangor,2021-01-01,female,50-54,285,9.4
+Selangor,2021-01-01,female,55-59,150,4.6
+Selangor,2021-01-01,female,60-64,89,2.5
+Selangor,2021-01-01,female,65+,45,0.4
+Selangor,2021-01-01,male,all,42193,21.6
+Selangor,2021-01-01,male,< 20,169,0.1
+Selangor,2021-01-01,male,20-24,6320,24.8
+Selangor,2021-01-01,male,25-29,19872,100.8
+Selangor,2021-01-01,male,30-34,9011,80.2
+Selangor,2021-01-01,male,35-39,3503,57.4
+Selangor,2021-01-01,male,40-44,1497,48.9
+Selangor,2021-01-01,male,45-49,716,37.7
+Selangor,2021-01-01,male,50-54,452,30.1
+Selangor,2021-01-01,male,55-59,284,21.1
+Selangor,2021-01-01,male,60-64,170,12.4
+Selangor,2021-01-01,male,65+,199,5.0
+Selangor,2022-01-01,female,all,38591,23.2
+Selangor,2022-01-01,female,< 20,672,0.7
+Selangor,2022-01-01,female,20-24,7941,43.1
+Selangor,2022-01-01,female,25-29,17033,158.9
+Selangor,2022-01-01,female,30-34,6844,102.2
+Selangor,2022-01-01,female,35-39,2970,67.3
+Selangor,2022-01-01,female,40-44,1437,50.5
+Selangor,2022-01-01,female,45-49,786,29.9
+Selangor,2022-01-01,female,50-54,428,14.1
+Selangor,2022-01-01,female,55-59,258,8.0
+Selangor,2022-01-01,female,60-64,152,4.2
+Selangor,2022-01-01,female,65+,70,0.7
+Selangor,2022-01-01,male,all,42825,22.0
+Selangor,2022-01-01,male,< 20,206,0.2
+Selangor,2022-01-01,male,20-24,5654,22.4
+Selangor,2022-01-01,male,25-29,18720,95.5
+Selangor,2022-01-01,male,30-34,9511,85.1
+Selangor,2022-01-01,male,35-39,4095,67.6
+Selangor,2022-01-01,male,40-44,2000,65.8
+Selangor,2022-01-01,male,45-49,1022,54.2
+Selangor,2022-01-01,male,50-54,601,40.2
+Selangor,2022-01-01,male,55-59,432,32.2
+Selangor,2022-01-01,male,60-64,284,20.9
+Selangor,2022-01-01,male,65+,300,7.5
+Terengganu,2017-01-01,female,all,11623,32.41
+Terengganu,2017-01-01,female,< 20,627,2.66
+Terengganu,2017-01-01,female,20-24,3952,88.56
+Terengganu,2017-01-01,female,25-29,4855,241.58
+Terengganu,2017-01-01,female,30-34,1111,159.4
+Terengganu,2017-01-01,female,35-39,440,109.75
+Terengganu,2017-01-01,female,40-44,261,70.01
+Terengganu,2017-01-01,female,45-49,146,37.41
+Terengganu,2017-01-01,female,50-54,103,19.03
+Terengganu,2017-01-01,female,55-59,58,8.91
+Terengganu,2017-01-01,female,60-64,39,5.55
+Terengganu,2017-01-01,female,65+,31,1.5
+Terengganu,2017-01-01,male,all,10728,28.17
+Terengganu,2017-01-01,male,< 20,133,0.53
+Terengganu,2017-01-01,male,20-24,2190,38.76
+Terengganu,2017-01-01,male,25-29,5076,139.16
+Terengganu,2017-01-01,male,30-34,1833,120.83
+Terengganu,2017-01-01,male,35-39,543,82.37
+Terengganu,2017-01-01,male,40-44,301,94.36
+Terengganu,2017-01-01,male,45-49,184,101.66
+Terengganu,2017-01-01,male,50-54,147,87.14
+Terengganu,2017-01-01,male,55-59,110,69.93
+Terengganu,2017-01-01,male,60-64,72,38.79
+Terengganu,2017-01-01,male,65+,139,21.1
+Terengganu,2018-01-01,female,all,11219,30.9
+Terengganu,2018-01-01,female,< 20,545,2.3
+Terengganu,2018-01-01,female,20-24,3676,83.3
+Terengganu,2018-01-01,female,25-29,4573,219.1
+Terengganu,2018-01-01,female,30-34,1169,158.0
+Terengganu,2018-01-01,female,35-39,529,128.9
+Terengganu,2018-01-01,female,40-44,267,71.6
+Terengganu,2018-01-01,female,45-49,187,47.7
+Terengganu,2018-01-01,female,50-54,115,21.1
+Terengganu,2018-01-01,female,55-59,70,10.5
+Terengganu,2018-01-01,female,60-64,49,6.6
+Terengganu,2018-01-01,female,65+,39,1.8
+Terengganu,2018-01-01,male,all,10541,27.4
+Terengganu,2018-01-01,male,< 20,137,0.5
+Terengganu,2018-01-01,male,20-24,2083,37.8
+Terengganu,2018-01-01,male,25-29,4998,133.9
+Terengganu,2018-01-01,male,30-34,1757,109.9
+Terengganu,2018-01-01,male,35-39,557,80.2
+Terengganu,2018-01-01,male,40-44,292,90.3
+Terengganu,2018-01-01,male,45-49,189,104.2
+Terengganu,2018-01-01,male,50-54,156,93.4
+Terengganu,2018-01-01,male,55-59,134,82.6
+Terengganu,2018-01-01,male,60-64,88,45.8
+Terengganu,2018-01-01,male,65+,150,21.9
+Terengganu,2019-01-01,female,all,10535,28.7
+Terengganu,2019-01-01,female,< 20,467,1.9
+Terengganu,2019-01-01,female,20-24,3341,76.7
+Terengganu,2019-01-01,female,25-29,4454,207.9
+Terengganu,2019-01-01,female,30-34,1150,147.5
+Terengganu,2019-01-01,female,35-39,443,104.5
+Terengganu,2019-01-01,female,40-44,270,72.4
+Terengganu,2019-01-01,female,45-49,177,45.2
+Terengganu,2019-01-01,female,50-54,106,19.4
+Terengganu,2019-01-01,female,55-59,61,9.0
+Terengganu,2019-01-01,female,60-64,36,4.6
+Terengganu,2019-01-01,female,65+,30,1.3
+Terengganu,2019-01-01,male,all,10113,26.1
+Terengganu,2019-01-01,male,< 20,112,0.4
+Terengganu,2019-01-01,male,20-24,1934,36.1
+Terengganu,2019-01-01,male,25-29,4854,129.4
+Terengganu,2019-01-01,male,30-34,1738,104.5
+Terengganu,2019-01-01,male,35-39,567,77.6
+Terengganu,2019-01-01,male,40-44,269,81.6
+Terengganu,2019-01-01,male,45-49,177,97.8
+Terengganu,2019-01-01,male,50-54,123,74.3
+Terengganu,2019-01-01,male,55-59,115,69.4
+Terengganu,2019-01-01,male,60-64,69,34.7
+Terengganu,2019-01-01,male,65+,155,21.9
+Terengganu,2020-01-01,female,all,10631,28.7
+Terengganu,2020-01-01,female,< 20,488,2.0
+Terengganu,2020-01-01,female,20-24,3476,80.4
+Terengganu,2020-01-01,female,25-29,4214,194.9
+Terengganu,2020-01-01,female,30-34,1201,146.5
+Terengganu,2020-01-01,female,35-39,519,117.5
+Terengganu,2020-01-01,female,40-44,263,70.4
+Terengganu,2020-01-01,female,45-49,194,49.5
+Terengganu,2020-01-01,female,50-54,116,21.3
+Terengganu,2020-01-01,female,55-59,85,12.4
+Terengganu,2020-01-01,female,60-64,39,4.8
+Terengganu,2020-01-01,female,65+,36,1.5
+Terengganu,2020-01-01,male,all,10302,26.5
+Terengganu,2020-01-01,male,< 20,132,0.5
+Terengganu,2020-01-01,male,20-24,2205,42.1
+Terengganu,2020-01-01,male,25-29,4711,126.9
+Terengganu,2020-01-01,male,30-34,1690,98.4
+Terengganu,2020-01-01,male,35-39,641,83.2
+Terengganu,2020-01-01,male,40-44,269,79.5
+Terengganu,2020-01-01,male,45-49,191,105.9
+Terengganu,2020-01-01,male,50-54,124,75.5
+Terengganu,2020-01-01,male,55-59,103,61.9
+Terengganu,2020-01-01,male,60-64,93,45.0
+Terengganu,2020-01-01,male,65+,143,19.5
+Terengganu,2021-01-01,female,all,12442,36.6
+Terengganu,2021-01-01,female,< 20,515,2.3
+Terengganu,2021-01-01,female,20-24,3845,96.8
+Terengganu,2021-01-01,female,25-29,5273,265.6
+Terengganu,2021-01-01,female,30-34,1366,181.4
+Terengganu,2021-01-01,female,35-39,605,149.1
+Terengganu,2021-01-01,female,40-44,312,90.9
+Terengganu,2021-01-01,female,45-49,223,62.0
+Terengganu,2021-01-01,female,50-54,135,27.0
+Terengganu,2021-01-01,female,55-59,86,13.6
+Terengganu,2021-01-01,female,60-64,50,6.7
+Terengganu,2021-01-01,female,65+,32,1.5
+Terengganu,2021-01-01,male,all,10846,29.7
+Terengganu,2021-01-01,male,< 20,132,0.5
+Terengganu,2021-01-01,male,20-24,2164,43.9
+Terengganu,2021-01-01,male,25-29,5066,145.1
+Terengganu,2021-01-01,male,30-34,1834,113.5
+Terengganu,2021-01-01,male,35-39,694,95.7
+Terengganu,2021-01-01,male,40-44,305,95.8
+Terengganu,2021-01-01,male,45-49,187,110.2
+Terengganu,2021-01-01,male,50-54,135,87.4
+Terengganu,2021-01-01,male,55-59,108,69.0
+Terengganu,2021-01-01,male,60-64,86,44.2
+Terengganu,2021-01-01,male,65+,135,19.5
+Terengganu,2022-01-01,female,all,11254,32.7
+Terengganu,2022-01-01,female,< 20,423,1.9
+Terengganu,2022-01-01,female,20-24,3276,81.5
+Terengganu,2022-01-01,female,25-29,4575,227.8
+Terengganu,2022-01-01,female,30-34,1411,185.2
+Terengganu,2022-01-01,female,35-39,645,157.2
+Terengganu,2022-01-01,female,40-44,339,97.6
+Terengganu,2022-01-01,female,45-49,253,69.5
+Terengganu,2022-01-01,female,50-54,151,29.9
+Terengganu,2022-01-01,female,55-59,99,15.5
+Terengganu,2022-01-01,female,60-64,49,6.5
+Terengganu,2022-01-01,female,65+,33,1.5
+Terengganu,2022-01-01,male,all,9671,26.2
+Terengganu,2022-01-01,male,< 20,109,0.4
+Terengganu,2022-01-01,male,20-24,1824,36.6
+Terengganu,2022-01-01,male,25-29,4315,122.2
+Terengganu,2022-01-01,male,30-34,1718,105.1
+Terengganu,2022-01-01,male,35-39,692,94.4
+Terengganu,2022-01-01,male,40-44,306,95.0
+Terengganu,2022-01-01,male,45-49,201,117.1
+Terengganu,2022-01-01,male,50-54,132,84.5
+Terengganu,2022-01-01,male,55-59,118,74.5
+Terengganu,2022-01-01,male,60-64,95,48.3
+Terengganu,2022-01-01,male,65+,161,23.1
+W.P. Kuala Lumpur,2017-01-01,female,all,9866,22.27
+W.P. Kuala Lumpur,2017-01-01,female,< 20,260,1.11
+W.P. Kuala Lumpur,2017-01-01,female,20-24,1998,37.43
+W.P. Kuala Lumpur,2017-01-01,female,25-29,3911,93.08
+W.P. Kuala Lumpur,2017-01-01,female,30-34,2067,85.14
+W.P. Kuala Lumpur,2017-01-01,female,35-39,874,53.5
+W.P. Kuala Lumpur,2017-01-01,female,40-44,355,36.35
+W.P. Kuala Lumpur,2017-01-01,female,45-49,205,21.93
+W.P. Kuala Lumpur,2017-01-01,female,50-54,108,11.22
+W.P. Kuala Lumpur,2017-01-01,female,55-59,56,6.25
+W.P. Kuala Lumpur,2017-01-01,female,60-64,14,1.47
+W.P. Kuala Lumpur,2017-01-01,female,65+,18,0.69
+W.P. Kuala Lumpur,2017-01-01,male,all,12033,26.27
+W.P. Kuala Lumpur,2017-01-01,male,< 20,82,0.33
+W.P. Kuala Lumpur,2017-01-01,male,20-24,1525,25.6
+W.P. Kuala Lumpur,2017-01-01,male,25-29,4722,86.5
+W.P. Kuala Lumpur,2017-01-01,male,30-34,2905,93.91
+W.P. Kuala Lumpur,2017-01-01,male,35-39,1375,67.81
+W.P. Kuala Lumpur,2017-01-01,male,40-44,630,53.9
+W.P. Kuala Lumpur,2017-01-01,male,45-49,305,46.95
+W.P. Kuala Lumpur,2017-01-01,male,50-54,217,37.04
+W.P. Kuala Lumpur,2017-01-01,male,55-59,156,30.44
+W.P. Kuala Lumpur,2017-01-01,male,60-64,66,15.83
+W.P. Kuala Lumpur,2017-01-01,male,65+,50,4.56
+W.P. Kuala Lumpur,2018-01-01,female,all,9777,22.3
+W.P. Kuala Lumpur,2018-01-01,female,< 20,238,1.0
+W.P. Kuala Lumpur,2018-01-01,female,20-24,1928,37.9
+W.P. Kuala Lumpur,2018-01-01,female,25-29,3730,93.4
+W.P. Kuala Lumpur,2018-01-01,female,30-34,2103,90.3
+W.P. Kuala Lumpur,2018-01-01,female,35-39,923,54.6
+W.P. Kuala Lumpur,2018-01-01,female,40-44,401,39.7
+W.P. Kuala Lumpur,2018-01-01,female,45-49,217,24.2
+W.P. Kuala Lumpur,2018-01-01,female,50-54,123,12.1
+W.P. Kuala Lumpur,2018-01-01,female,55-59,73,8.0
+W.P. Kuala Lumpur,2018-01-01,female,60-64,25,2.6
+W.P. Kuala Lumpur,2018-01-01,female,65+,16,0.6
+W.P. Kuala Lumpur,2018-01-01,male,all,11766,25.9
+W.P. Kuala Lumpur,2018-01-01,male,< 20,71,0.3
+W.P. Kuala Lumpur,2018-01-01,male,20-24,1498,26.3
+W.P. Kuala Lumpur,2018-01-01,male,25-29,4427,82.6
+W.P. Kuala Lumpur,2018-01-01,male,30-34,2903,97.0
+W.P. Kuala Lumpur,2018-01-01,male,35-39,1341,64.8
+W.P. Kuala Lumpur,2018-01-01,male,40-44,661,54.8
+W.P. Kuala Lumpur,2018-01-01,male,45-49,327,49.1
+W.P. Kuala Lumpur,2018-01-01,male,50-54,228,40.6
+W.P. Kuala Lumpur,2018-01-01,male,55-59,158,29.6
+W.P. Kuala Lumpur,2018-01-01,male,60-64,83,19.0
+W.P. Kuala Lumpur,2018-01-01,male,65+,69,6.0
+W.P. Kuala Lumpur,2019-01-01,female,all,9245,21.3
+W.P. Kuala Lumpur,2019-01-01,female,< 20,177,0.8
+W.P. Kuala Lumpur,2019-01-01,female,20-24,1647,34.0
+W.P. Kuala Lumpur,2019-01-01,female,25-29,3654,96.7
+W.P. Kuala Lumpur,2019-01-01,female,30-34,2016,90.1
+W.P. Kuala Lumpur,2019-01-01,female,35-39,891,51.8
+W.P. Kuala Lumpur,2019-01-01,female,40-44,417,39.6
+W.P. Kuala Lumpur,2019-01-01,female,45-49,215,24.9
+W.P. Kuala Lumpur,2019-01-01,female,50-54,123,11.6
+W.P. Kuala Lumpur,2019-01-01,female,55-59,68,7.2
+W.P. Kuala Lumpur,2019-01-01,female,60-64,26,2.6
+W.P. Kuala Lumpur,2019-01-01,female,65+,11,0.4
+W.P. Kuala Lumpur,2019-01-01,male,all,11358,25.3
+W.P. Kuala Lumpur,2019-01-01,male,< 20,64,0.3
+W.P. Kuala Lumpur,2019-01-01,male,20-24,1385,25.5
+W.P. Kuala Lumpur,2019-01-01,male,25-29,4312,83.2
+W.P. Kuala Lumpur,2019-01-01,male,30-34,2765,95.3
+W.P. Kuala Lumpur,2019-01-01,male,35-39,1322,64.2
+W.P. Kuala Lumpur,2019-01-01,male,40-44,603,48.7
+W.P. Kuala Lumpur,2019-01-01,male,45-49,361,52.8
+W.P. Kuala Lumpur,2019-01-01,male,50-54,227,42.1
+W.P. Kuala Lumpur,2019-01-01,male,55-59,161,29.5
+W.P. Kuala Lumpur,2019-01-01,male,60-64,80,17.4
+W.P. Kuala Lumpur,2019-01-01,male,65+,78,6.4
+W.P. Kuala Lumpur,2020-01-01,female,all,8845,20.7
+W.P. Kuala Lumpur,2020-01-01,female,< 20,169,0.7
+W.P. Kuala Lumpur,2020-01-01,female,20-24,1682,36.4
+W.P. Kuala Lumpur,2020-01-01,female,25-29,3741,105.2
+W.P. Kuala Lumpur,2020-01-01,female,30-34,1736,81.3
+W.P. Kuala Lumpur,2020-01-01,female,35-39,769,45.1
+W.P. Kuala Lumpur,2020-01-01,female,40-44,351,32.1
+W.P. Kuala Lumpur,2020-01-01,female,45-49,192,22.6
+W.P. Kuala Lumpur,2020-01-01,female,50-54,99,9.2
+W.P. Kuala Lumpur,2020-01-01,female,55-59,65,6.6
+W.P. Kuala Lumpur,2020-01-01,female,60-64,28,2.7
+W.P. Kuala Lumpur,2020-01-01,female,65+,13,0.4
+W.P. Kuala Lumpur,2020-01-01,male,all,10645,24.1
+W.P. Kuala Lumpur,2020-01-01,male,< 20,61,0.2
+W.P. Kuala Lumpur,2020-01-01,male,20-24,1319,25.4
+W.P. Kuala Lumpur,2020-01-01,male,25-29,4433,90.2
+W.P. Kuala Lumpur,2020-01-01,male,30-34,2418,86.8
+W.P. Kuala Lumpur,2020-01-01,male,35-39,1162,57.9
+W.P. Kuala Lumpur,2020-01-01,male,40-44,537,42.5
+W.P. Kuala Lumpur,2020-01-01,male,45-49,295,42.2
+W.P. Kuala Lumpur,2020-01-01,male,50-54,151,28.7
+W.P. Kuala Lumpur,2020-01-01,male,55-59,133,24.4
+W.P. Kuala Lumpur,2020-01-01,male,60-64,79,16.5
+W.P. Kuala Lumpur,2020-01-01,male,65+,57,4.5
+W.P. Kuala Lumpur,2021-01-01,female,all,9539,20.9
+W.P. Kuala Lumpur,2021-01-01,female,< 20,147,0.6
+W.P. Kuala Lumpur,2021-01-01,female,20-24,1729,35.1
+W.P. Kuala Lumpur,2021-01-01,female,25-29,4129,109.0
+W.P. Kuala Lumpur,2021-01-01,female,30-34,1821,80.0
+W.P. Kuala Lumpur,2021-01-01,female,35-39,924,50.8
+W.P. Kuala Lumpur,2021-01-01,female,40-44,376,32.2
+W.P. Kuala Lumpur,2021-01-01,female,45-49,232,25.6
+W.P. Kuala Lumpur,2021-01-01,female,50-54,95,8.3
+W.P. Kuala Lumpur,2021-01-01,female,55-59,42,4.0
+W.P. Kuala Lumpur,2021-01-01,female,60-64,30,2.7
+W.P. Kuala Lumpur,2021-01-01,female,65+,14,0.4
+W.P. Kuala Lumpur,2021-01-01,male,all,11457,23.9
+W.P. Kuala Lumpur,2021-01-01,male,< 20,44,0.2
+W.P. Kuala Lumpur,2021-01-01,male,20-24,1443,25.5
+W.P. Kuala Lumpur,2021-01-01,male,25-29,4795,89.6
+W.P. Kuala Lumpur,2021-01-01,male,30-34,2698,89.0
+W.P. Kuala Lumpur,2021-01-01,male,35-39,1252,57.3
+W.P. Kuala Lumpur,2021-01-01,male,40-44,549,39.9
+W.P. Kuala Lumpur,2021-01-01,male,45-49,290,38.1
+W.P. Kuala Lumpur,2021-01-01,male,50-54,155,27.1
+W.P. Kuala Lumpur,2021-01-01,male,55-59,105,17.7
+W.P. Kuala Lumpur,2021-01-01,male,60-64,69,13.2
+W.P. Kuala Lumpur,2021-01-01,male,65+,57,4.1
+W.P. Kuala Lumpur,2022-01-01,female,all,9709,21.5
+W.P. Kuala Lumpur,2022-01-01,female,< 20,156,0.7
+W.P. Kuala Lumpur,2022-01-01,female,20-24,1528,31.4
+W.P. Kuala Lumpur,2022-01-01,female,25-29,3782,100.9
+W.P. Kuala Lumpur,2022-01-01,female,30-34,2115,93.9
+W.P. Kuala Lumpur,2022-01-01,female,35-39,1038,57.7
+W.P. Kuala Lumpur,2022-01-01,female,40-44,509,44.1
+W.P. Kuala Lumpur,2022-01-01,female,45-49,274,30.6
+W.P. Kuala Lumpur,2022-01-01,female,50-54,160,14.1
+W.P. Kuala Lumpur,2022-01-01,female,55-59,75,7.2
+W.P. Kuala Lumpur,2022-01-01,female,60-64,45,4.2
+W.P. Kuala Lumpur,2022-01-01,female,65+,27,0.8
+W.P. Kuala Lumpur,2022-01-01,male,all,11419,24.1
+W.P. Kuala Lumpur,2022-01-01,male,< 20,56,0.2
+W.P. Kuala Lumpur,2022-01-01,male,20-24,1164,20.8
+W.P. Kuala Lumpur,2022-01-01,male,25-29,4289,81.2
+W.P. Kuala Lumpur,2022-01-01,male,30-34,2794,93.3
+W.P. Kuala Lumpur,2022-01-01,male,35-39,1458,67.6
+W.P. Kuala Lumpur,2022-01-01,male,40-44,721,53.0
+W.P. Kuala Lumpur,2022-01-01,male,45-49,404,53.8
+W.P. Kuala Lumpur,2022-01-01,male,50-54,217,38.4
+W.P. Kuala Lumpur,2022-01-01,male,55-59,141,24.1
+W.P. Kuala Lumpur,2022-01-01,male,60-64,81,15.7
+W.P. Kuala Lumpur,2022-01-01,male,65+,94,6.9
+W.P. Labuan,2017-01-01,female,all,501,19.95
+W.P. Labuan,2017-01-01,female,< 20,50,2.99
+W.P. Labuan,2017-01-01,female,20-24,158,57.0
+W.P. Labuan,2017-01-01,female,25-29,166,118.4
+W.P. Labuan,2017-01-01,female,30-34,59,64.48
+W.P. Labuan,2017-01-01,female,35-39,37,64.35
+W.P. Labuan,2017-01-01,female,40-44,16,41.03
+W.P. Labuan,2017-01-01,female,45-49,9,24.46
+W.P. Labuan,2017-01-01,female,50-54,3,8.04
+W.P. Labuan,2017-01-01,female,55-59,3,9.09
+W.P. Labuan,2017-01-01,female,60-64,0,0.0
+W.P. Labuan,2017-01-01,female,65+,0,0.0
+W.P. Labuan,2017-01-01,male,all,603,23.33
+W.P. Labuan,2017-01-01,male,< 20,15,0.86
+W.P. Labuan,2017-01-01,male,20-24,141,48.72
+W.P. Labuan,2017-01-01,male,25-29,246,126.8
+W.P. Labuan,2017-01-01,male,30-34,111,85.32
+W.P. Labuan,2017-01-01,male,35-39,41,54.02
+W.P. Labuan,2017-01-01,male,40-44,22,63.95
+W.P. Labuan,2017-01-01,male,45-49,13,62.5
+W.P. Labuan,2017-01-01,male,50-54,9,43.9
+W.P. Labuan,2017-01-01,male,55-59,3,14.71
+W.P. Labuan,2017-01-01,male,60-64,2,12.27
+W.P. Labuan,2017-01-01,male,65+,0,0.0
+W.P. Labuan,2018-01-01,female,all,487,19.3
+W.P. Labuan,2018-01-01,female,< 20,36,2.1
+W.P. Labuan,2018-01-01,female,20-24,162,59.7
+W.P. Labuan,2018-01-01,female,25-29,152,106.8
+W.P. Labuan,2018-01-01,female,30-34,67,77.3
+W.P. Labuan,2018-01-01,female,35-39,43,65.4
+W.P. Labuan,2018-01-01,female,40-44,12,31.0
+W.P. Labuan,2018-01-01,female,45-49,7,18.6
+W.P. Labuan,2018-01-01,female,50-54,7,18.1
+W.P. Labuan,2018-01-01,female,55-59,0,0.0
+W.P. Labuan,2018-01-01,female,60-64,0,0.0
+W.P. Labuan,2018-01-01,female,65+,1,1.0
+W.P. Labuan,2018-01-01,male,all,554,21.4
+W.P. Labuan,2018-01-01,male,< 20,11,0.6
+W.P. Labuan,2018-01-01,male,20-24,117,40.9
+W.P. Labuan,2018-01-01,male,25-29,227,118.2
+W.P. Labuan,2018-01-01,male,30-34,111,92.5
+W.P. Labuan,2018-01-01,male,35-39,47,55.0
+W.P. Labuan,2018-01-01,male,40-44,18,51.1
+W.P. Labuan,2018-01-01,male,45-49,9,42.1
+W.P. Labuan,2018-01-01,male,50-54,10,49.0
+W.P. Labuan,2018-01-01,male,55-59,3,14.3
+W.P. Labuan,2018-01-01,male,60-64,0,0.0
+W.P. Labuan,2018-01-01,male,65+,1,2.1
+W.P. Labuan,2019-01-01,female,all,469,18.7
+W.P. Labuan,2019-01-01,female,< 20,39,2.3
+W.P. Labuan,2019-01-01,female,20-24,131,49.8
+W.P. Labuan,2019-01-01,female,25-29,178,126.1
+W.P. Labuan,2019-01-01,female,30-34,57,69.9
+W.P. Labuan,2019-01-01,female,35-39,30,42.3
+W.P. Labuan,2019-01-01,female,40-44,11,28.1
+W.P. Labuan,2019-01-01,female,45-49,12,31.3
+W.P. Labuan,2019-01-01,female,50-54,7,17.7
+W.P. Labuan,2019-01-01,female,55-59,4,11.1
+W.P. Labuan,2019-01-01,female,60-64,0,0.0
+W.P. Labuan,2019-01-01,female,65+,0,0.0
+W.P. Labuan,2019-01-01,male,all,625,24.3
+W.P. Labuan,2019-01-01,male,< 20,9,0.5
+W.P. Labuan,2019-01-01,male,20-24,150,53.6
+W.P. Labuan,2019-01-01,male,25-29,261,139.4
+W.P. Labuan,2019-01-01,male,30-34,100,91.2
+W.P. Labuan,2019-01-01,male,35-39,46,50.8
+W.P. Labuan,2019-01-01,male,40-44,21,57.9
+W.P. Labuan,2019-01-01,male,45-49,9,42.3
+W.P. Labuan,2019-01-01,male,50-54,12,60.3
+W.P. Labuan,2019-01-01,male,55-59,9,41.9
+W.P. Labuan,2019-01-01,male,60-64,5,27.2
+W.P. Labuan,2019-01-01,male,65+,3,6.1
+W.P. Labuan,2020-01-01,female,all,399,15.9
+W.P. Labuan,2020-01-01,female,< 20,31,1.9
+W.P. Labuan,2020-01-01,female,20-24,124,48.8
+W.P. Labuan,2020-01-01,female,25-29,153,110.6
+W.P. Labuan,2020-01-01,female,30-34,54,69.0
+W.P. Labuan,2020-01-01,female,35-39,13,17.7
+W.P. Labuan,2020-01-01,female,40-44,13,31.8
+W.P. Labuan,2020-01-01,female,45-49,6,15.6
+W.P. Labuan,2020-01-01,female,50-54,3,7.4
+W.P. Labuan,2020-01-01,female,55-59,0,0.0
+W.P. Labuan,2020-01-01,female,60-64,1,2.4
+W.P. Labuan,2020-01-01,female,65+,1,0.9
+W.P. Labuan,2020-01-01,male,all,531,20.9
+W.P. Labuan,2020-01-01,male,< 20,14,0.8
+W.P. Labuan,2020-01-01,male,20-24,120,44.1
+W.P. Labuan,2020-01-01,male,25-29,210,
+W.P. Labuan,2020-01-01,male,30-34,108,106.3
+W.P. Labuan,2020-01-01,male,35-39,32,35.1
+W.P. Labuan,2020-01-01,male,40-44,17,43.1
+W.P. Labuan,2020-01-01,male,45-49,12,56.6
+W.P. Labuan,2020-01-01,male,50-54,6,30.9
+W.P. Labuan,2020-01-01,male,55-59,5,23.1
+W.P. Labuan,2020-01-01,male,60-64,5,25.4
+W.P. Labuan,2020-01-01,male,65+,2,3.8
+W.P. Labuan,2021-01-01,female,all,625,23.6
+W.P. Labuan,2021-01-01,female,< 20,31,1.8
+W.P. Labuan,2021-01-01,female,20-24,209,77.9
+W.P. Labuan,2021-01-01,female,25-29,220,150.8
+W.P. Labuan,2021-01-01,female,30-34,99,120.0
+W.P. Labuan,2021-01-01,female,35-39,33,42.5
+W.P. Labuan,2021-01-01,female,40-44,20,46.3
+W.P. Labuan,2021-01-01,female,45-49,5,12.3
+W.P. Labuan,2021-01-01,female,50-54,4,9.4
+W.P. Labuan,2021-01-01,female,55-59,2,5.1
+W.P. Labuan,2021-01-01,female,60-64,2,4.6
+W.P. Labuan,2021-01-01,female,65+,0,0.0
+W.P. Labuan,2021-01-01,male,all,757,26.3
+W.P. Labuan,2021-01-01,male,< 20,18,0.9
+W.P. Labuan,2021-01-01,male,20-24,146,47.4
+W.P. Labuan,2021-01-01,male,25-29,358,174.5
+W.P. Labuan,2021-01-01,male,30-34,129,112.4
+W.P. Labuan,2021-01-01,male,35-39,54,52.4
+W.P. Labuan,2021-01-01,male,40-44,22,49.4
+W.P. Labuan,2021-01-01,male,45-49,14,58.6
+W.P. Labuan,2021-01-01,male,50-54,9,41.1
+W.P. Labuan,2021-01-01,male,55-59,4,16.4
+W.P. Labuan,2021-01-01,male,60-64,3,13.5
+W.P. Labuan,2021-01-01,male,65+,0,0.0
+W.P. Labuan,2022-01-01,female,all,548,20.8
+W.P. Labuan,2022-01-01,female,< 20,25,1.4
+W.P. Labuan,2022-01-01,female,20-24,161,60.2
+W.P. Labuan,2022-01-01,female,25-29,185,127.1
+W.P. Labuan,2022-01-01,female,30-34,90,109.2
+W.P. Labuan,2022-01-01,female,35-39,41,52.9
+W.P. Labuan,2022-01-01,female,40-44,15,34.8
+W.P. Labuan,2022-01-01,female,45-49,16,39.5
+W.P. Labuan,2022-01-01,female,50-54,6,14.1
+W.P. Labuan,2022-01-01,female,55-59,5,12.7
+W.P. Labuan,2022-01-01,female,60-64,4,9.2
+W.P. Labuan,2022-01-01,female,65+,0,0.0
+W.P. Labuan,2022-01-01,male,all,673,23.4
+W.P. Labuan,2022-01-01,male,< 20,6,0.3
+W.P. Labuan,2022-01-01,male,20-24,140,45.6
+W.P. Labuan,2022-01-01,male,25-29,257,125.5
+W.P. Labuan,2022-01-01,male,30-34,139,121.3
+W.P. Labuan,2022-01-01,male,35-39,67,65.1
+W.P. Labuan,2022-01-01,male,40-44,28,63.1
+W.P. Labuan,2022-01-01,male,45-49,14,58.6
+W.P. Labuan,2022-01-01,male,50-54,6,27.4
+W.P. Labuan,2022-01-01,male,55-59,5,20.5
+W.P. Labuan,2022-01-01,male,60-64,4,18.0
+W.P. Labuan,2022-01-01,male,65+,7,11.9
+W.P. Putrajaya,2017-01-01,female,all,438,16.97
+W.P. Putrajaya,2017-01-01,female,< 20,2,0.1
+W.P. Putrajaya,2017-01-01,female,20-24,76,48.47
+W.P. Putrajaya,2017-01-01,female,25-29,220,223.35
+W.P. Putrajaya,2017-01-01,female,30-34,73,58.49
+W.P. Putrajaya,2017-01-01,female,35-39,30,36.32
+W.P. Putrajaya,2017-01-01,female,40-44,23,88.8
+W.P. Putrajaya,2017-01-01,female,45-49,4,19.32
+W.P. Putrajaya,2017-01-01,female,50-54,3,11.81
+W.P. Putrajaya,2017-01-01,female,55-59,3,6.88
+W.P. Putrajaya,2017-01-01,female,60-64,3,7.75
+W.P. Putrajaya,2017-01-01,female,65+,1,3.46
+W.P. Putrajaya,2017-01-01,male,all,478,21.02
+W.P. Putrajaya,2017-01-01,male,< 20,2,0.1
+W.P. Putrajaya,2017-01-01,male,20-24,45,26.22
+W.P. Putrajaya,2017-01-01,male,25-29,240,
+W.P. Putrajaya,2017-01-01,male,30-34,104,
+W.P. Putrajaya,2017-01-01,male,35-39,41,147.48
+W.P. Putrajaya,2017-01-01,male,40-44,14,126.13
+W.P. Putrajaya,2017-01-01,male,45-49,12,272.73
+W.P. Putrajaya,2017-01-01,male,50-54,7,179.49
+W.P. Putrajaya,2017-01-01,male,55-59,8,210.53
+W.P. Putrajaya,2017-01-01,male,60-64,3,44.12
+W.P. Putrajaya,2017-01-01,male,65+,2,14.08
+W.P. Putrajaya,2018-01-01,female,all,440,15.3
+W.P. Putrajaya,2018-01-01,female,< 20,3,0.1
+W.P. Putrajaya,2018-01-01,female,20-24,77,24.2
+W.P. Putrajaya,2018-01-01,female,25-29,204,
+W.P. Putrajaya,2018-01-01,female,30-34,74,59.8
+W.P. Putrajaya,2018-01-01,female,35-39,42,41.3
+W.P. Putrajaya,2018-01-01,female,40-44,19,60.5
+W.P. Putrajaya,2018-01-01,female,45-49,9,38.6
+W.P. Putrajaya,2018-01-01,female,50-54,7,22.3
+W.P. Putrajaya,2018-01-01,female,55-59,4,9.0
+W.P. Putrajaya,2018-01-01,female,60-64,1,1.9
+W.P. Putrajaya,2018-01-01,female,65+,0,0.0
+W.P. Putrajaya,2018-01-01,male,all,464,18.2
+W.P. Putrajaya,2018-01-01,male,< 20,0,0.0
+W.P. Putrajaya,2018-01-01,male,20-24,41,14.4
+W.P. Putrajaya,2018-01-01,male,25-29,216,
+W.P. Putrajaya,2018-01-01,male,30-34,108,
+W.P. Putrajaya,2018-01-01,male,35-39,45,
+W.P. Putrajaya,2018-01-01,male,40-44,23,
+W.P. Putrajaya,2018-01-01,male,45-49,12,
+W.P. Putrajaya,2018-01-01,male,50-54,8,
+W.P. Putrajaya,2018-01-01,male,55-59,8,
+W.P. Putrajaya,2018-01-01,male,60-64,2,24.4
+W.P. Putrajaya,2018-01-01,male,65+,1,4.7
+W.P. Putrajaya,2019-01-01,female,all,397,12.9
+W.P. Putrajaya,2019-01-01,female,< 20,3,0.1
+W.P. Putrajaya,2019-01-01,female,20-24,61,15.5
+W.P. Putrajaya,2019-01-01,female,25-29,173,
+W.P. Putrajaya,2019-01-01,female,30-34,65,58.4
+W.P. Putrajaya,2019-01-01,female,35-39,59,50.6
+W.P. Putrajaya,2019-01-01,female,40-44,15,39.0
+W.P. Putrajaya,2019-01-01,female,45-49,11,41.8
+W.P. Putrajaya,2019-01-01,female,50-54,3,8.2
+W.P. Putrajaya,2019-01-01,female,55-59,5,10.8
+W.P. Putrajaya,2019-01-01,female,60-64,1,1.6
+W.P. Putrajaya,2019-01-01,female,65+,1,2.8
+W.P. Putrajaya,2019-01-01,male,all,448,16.6
+W.P. Putrajaya,2019-01-01,male,< 20,2,0.1
+W.P. Putrajaya,2019-01-01,male,20-24,47,14.8
+W.P. Putrajaya,2019-01-01,male,25-29,207,
+W.P. Putrajaya,2019-01-01,male,30-34,89,
+W.P. Putrajaya,2019-01-01,male,35-39,52,
+W.P. Putrajaya,2019-01-01,male,40-44,27,
+W.P. Putrajaya,2019-01-01,male,45-49,8,
+W.P. Putrajaya,2019-01-01,male,50-54,4,
+W.P. Putrajaya,2019-01-01,male,55-59,5,
+W.P. Putrajaya,2019-01-01,male,60-64,5,
+W.P. Putrajaya,2019-01-01,male,65+,2,8.0
+W.P. Putrajaya,2020-01-01,female,all,481,14.8
+W.P. Putrajaya,2020-01-01,female,< 20,2,0.1
+W.P. Putrajaya,2020-01-01,female,20-24,73,16.8
+W.P. Putrajaya,2020-01-01,female,25-29,229,
+W.P. Putrajaya,2020-01-01,female,30-34,84,87.3
+W.P. Putrajaya,2020-01-01,female,35-39,62,48.7
+W.P. Putrajaya,2020-01-01,female,40-44,16,33.3
+W.P. Putrajaya,2020-01-01,female,45-49,8,25.6
+W.P. Putrajaya,2020-01-01,female,50-54,1,2.5
+W.P. Putrajaya,2020-01-01,female,55-59,1,2.0
+W.P. Putrajaya,2020-01-01,female,60-64,4,6.0
+W.P. Putrajaya,2020-01-01,female,65+,1,2.3
+W.P. Putrajaya,2020-01-01,male,all,501,17.9
+W.P. Putrajaya,2020-01-01,male,< 20,1,0.0
+W.P. Putrajaya,2020-01-01,male,20-24,53,15.8
+W.P. Putrajaya,2020-01-01,male,25-29,251,
+W.P. Putrajaya,2020-01-01,male,30-34,90,
+W.P. Putrajaya,2020-01-01,male,35-39,58,
+W.P. Putrajaya,2020-01-01,male,40-44,23,
+W.P. Putrajaya,2020-01-01,male,45-49,12,
+W.P. Putrajaya,2020-01-01,male,50-54,6,
+W.P. Putrajaya,2020-01-01,male,55-59,3,60.0
+W.P. Putrajaya,2020-01-01,male,60-64,2,18.3
+W.P. Putrajaya,2020-01-01,male,65+,2,7.2
+W.P. Putrajaya,2021-01-01,female,all,641,18.8
+W.P. Putrajaya,2021-01-01,female,< 20,6,0.3
+W.P. Putrajaya,2021-01-01,female,20-24,105,22.9
+W.P. Putrajaya,2021-01-01,female,25-29,309,549.8
+W.P. Putrajaya,2021-01-01,female,30-34,92,90.6
+W.P. Putrajaya,2021-01-01,female,35-39,73,54.4
+W.P. Putrajaya,2021-01-01,female,40-44,30,59.2
+W.P. Putrajaya,2021-01-01,female,45-49,15,45.6
+W.P. Putrajaya,2021-01-01,female,50-54,3,7.2
+W.P. Putrajaya,2021-01-01,female,55-59,3,5.8
+W.P. Putrajaya,2021-01-01,female,60-64,3,4.2
+W.P. Putrajaya,2021-01-01,female,65+,2,4.4
+W.P. Putrajaya,2021-01-01,male,all,676,20.9
+W.P. Putrajaya,2021-01-01,male,< 20,3,0.1
+W.P. Putrajaya,2021-01-01,male,20-24,62,16.1
+W.P. Putrajaya,2021-01-01,male,25-29,349,230.5
+W.P. Putrajaya,2021-01-01,male,30-34,131,839.7
+W.P. Putrajaya,2021-01-01,male,35-39,73,190.6
+W.P. Putrajaya,2021-01-01,male,40-44,26,117.1
+W.P. Putrajaya,2021-01-01,male,45-49,14,218.8
+W.P. Putrajaya,2021-01-01,male,50-54,5,106.4
+W.P. Putrajaya,2021-01-01,male,55-59,4,70.2
+W.P. Putrajaya,2021-01-01,male,60-64,3,24.0
+W.P. Putrajaya,2021-01-01,male,65+,6,18.8
+W.P. Putrajaya,2022-01-01,female,all,543,15.7
+W.P. Putrajaya,2022-01-01,female,< 20,3,0.1
+W.P. Putrajaya,2022-01-01,female,20-24,66,14.2
+W.P. Putrajaya,2022-01-01,female,25-29,247,434.1
+W.P. Putrajaya,2022-01-01,female,30-34,87,84.6
+W.P. Putrajaya,2022-01-01,female,35-39,66,48.5
+W.P. Putrajaya,2022-01-01,female,40-44,51,99.2
+W.P. Putrajaya,2022-01-01,female,45-49,17,51.1
+W.P. Putrajaya,2022-01-01,female,50-54,3,7.1
+W.P. Putrajaya,2022-01-01,female,55-59,1,1.9
+W.P. Putrajaya,2022-01-01,female,60-64,2,2.8
+W.P. Putrajaya,2022-01-01,female,65+,0,0.0
+W.P. Putrajaya,2022-01-01,male,all,547,16.9
+W.P. Putrajaya,2022-01-01,male,< 20,0,0.0
+W.P. Putrajaya,2022-01-01,male,20-24,46,11.9
+W.P. Putrajaya,2022-01-01,male,25-29,275,180.7
+W.P. Putrajaya,2022-01-01,male,30-34,103,656.1
+W.P. Putrajaya,2022-01-01,male,35-39,63,163.6
+W.P. Putrajaya,2022-01-01,male,40-44,28,125.6
+W.P. Putrajaya,2022-01-01,male,45-49,8,123.1
+W.P. Putrajaya,2022-01-01,male,50-54,9,191.5
+W.P. Putrajaya,2022-01-01,male,55-59,5,86.2
+W.P. Putrajaya,2022-01-01,male,60-64,2,15.9
+W.P. Putrajaya,2022-01-01,male,65+,8,24.9
