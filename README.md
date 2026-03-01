@@ -12,6 +12,7 @@ This project analyzes marriage rate trends using Excel for data processing and T
 - **Excel**: Data cleaning, preprocessing, and preliminary analysis
 - **Tableau**: Interactive dashboard creation and visualization
 
+---
 
 ## 📊 Dashboard Components
 
@@ -31,6 +32,7 @@ This project analyzes marriage rate trends using Excel for data processing and T
   - **Male**: +5.4% increase (from 57.94 to 61.10)
   - **Female**: +6.4% increase (from 53.35 to 56.75)
 
+---
 
 ### 2️⃣ Age Pyramid Distribution
 
@@ -54,6 +56,7 @@ This project analyzes marriage rate trends using Excel for data processing and T
 
 1. **Population peaks**: Both genders peak in the **25-29 age bracket** (1,019,477 total people) and this is the ideal age of marriage
 
+---
 
 ### 3️⃣ State-by-State Comparison: Johor & Selangor Spotlight
 
@@ -70,8 +73,7 @@ In 2022 both states show dramatically higher marriage rates than the national av
 | **JOHOR** | Female | 25-29 | **152.3** | 56.75 | ▲ **+95.55** (268% higher) | 🥉 #3 Overall |
 | **JOHOR** | Male | 25-29 | **85.7** | 61.10 | ▲ **+24.6** (140% higher) | #4 Overall |
 
-
-
+---
 
 ### 4️⃣ Heat Matrix: State × Age Group
 - **Visualization type**: Marriage rates cross-tabulated by state (rows) and age group (columns)
@@ -116,7 +118,9 @@ In 2022 both states show dramatically higher marriage rates than the national av
 | **Selangor** | 🔴🔴 Females MUCH higher | 1.66:1 | REVERSED |
 | **Johor** | 🔴🔴 Females MUCH higher | 1.78:1 | REVERSED |
 
+---
 
 ## Dashboard Preview
 -<a href="https://github.com/Donovandonz/Tableau--marriage-rate-analysis/blob/main/Marriage-rate-dashboard.png">Marriage-rate-dashboard</a>
+
 <img width="1638" height="783" alt="Marriage-rate-dashboard" src="https://github.com/user-attachments/assets/1308af5b-5b9e-4a51-b303-5e03fd20b169" />
